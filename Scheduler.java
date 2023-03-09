@@ -76,8 +76,8 @@ public class Scheduler {
             String[] values = cur.split(", ");
             processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
 
-            logWriter.write("\n[INITIALIZING] Loaded process to queue. PID:" + processQueue.peek().PID + "alias: " 
-                                + processQueue.peek().processID + "processingTicks: " + processQueue.peek().ticksToComplete);   
+            logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + processQueue.peek().PID + " alias: " 
+                                + processQueue.peek().processID + " processingTicks: " + processQueue.peek().ticksToComplete);   
 
             totalProcesses++;
             //shouldn't need this
