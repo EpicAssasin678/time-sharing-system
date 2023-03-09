@@ -79,7 +79,6 @@ public class Scheduler {
             logWriter.write("\n[INITIALIZING] Loaded process to queue. PID:" + processQueue.peek().PID + "alias: " 
                                 + processQueue.peek().processID + "processingTicks: " + processQueue.peek().ticksToComplete);   
 
-
             totalProcesses++;
             //shouldn't need this
             temp.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]));
@@ -118,7 +117,7 @@ public class Scheduler {
                     if (CSVFlag) CSVOutputStream.add(String.format("%s, %d, %d", 
                                 temp.processID, 
                                 totalTime - stats.get(temp.processID).get(0), 
-                                timeTaken)
+                                totalTime)
                             );
                     
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime));
@@ -145,7 +144,6 @@ public class Scheduler {
         System.out.println(CSVOutputStream);
     }
 
-
     /**
      * 
      * takes in n number of processes and trys to sort based on any given algorthim
@@ -159,7 +157,5 @@ public class Scheduler {
         //load library 
         Scheduler scheduler = new Scheduler(new File("./inputfile.txt"), new Processor(6, 5));        
         scheduler.roundRobinExecute();
-
     }
-
 }

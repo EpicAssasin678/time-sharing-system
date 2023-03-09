@@ -26,7 +26,6 @@ public class Processor {
 
     }
 
-
     public int execute (SimProcess process) {
         int executionTime = 0;
         for (int i = executionTime; i < timeSlice; i++) {
@@ -47,8 +46,6 @@ public class Processor {
     public int switchContext () {
         return contextSwitchValue;
     }
-
-    
 
 }
 
