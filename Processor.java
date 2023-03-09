@@ -3,6 +3,9 @@ public class Processor {
     int clockRate;
     int timeSlice;
     int cycleCompletion; 
+    int systemClock;
+
+    int contextSwitchValue = 4;
 
     public Processor (int clockRate) {
         this.clockRate = clockRate;
@@ -11,6 +14,16 @@ public class Processor {
     public Processor (int clockRate, int timeSlice) {
         this.clockRate = clockRate;
         this.timeSlice = timeSlice;
+    }
+
+    public Processor (int clockRate, int timeSlice, int systemClock) {
+        this.clockRate = clockRate;
+        this.timeSlice = timeSlice;
+        this.systemClock = systemClock;
+    }
+
+    public void linkProcessorStatistics(int[] args) {
+
     }
 
 
@@ -32,7 +45,7 @@ public class Processor {
      * save registers, load registers, update various tables and lists.
      */
     public int switchContext () {
-        return 4;
+        return contextSwitchValue;
     }
 
     

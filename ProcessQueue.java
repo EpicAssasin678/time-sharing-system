@@ -26,91 +26,76 @@ public class ProcessQueue implements Queue{
 
     @Override
     public int size() {
-        // TODO Auto-generated method stub
         return this.processList.size();
     }
 
     @Override
     public boolean isEmpty() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'isEmpty'");
     }
 
     @Override
     public boolean contains(Object o) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'contains'");
     }
 
     @Override
     public Iterator iterator() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'iterator'");
     }
 
     @Override
     public Object[] toArray() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'toArray'");
     }
 
     @Override
     public Object[] toArray(Object[] a) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'toArray'");
     }
 
     @Override
     public boolean remove(Object o) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'remove'");
     }
     
     @Override
     public SimProcess remove() {
-        // TODO Auto-generated method stub
         return processList.remove(0);
     }
 
     @Override
     public boolean containsAll(Collection c) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'containsAll'");
     }
 
     @Override
     public boolean addAll(Collection c) {
-        // TODO Auto-generated method stub
         try {
             c.forEach(item -> {this.processList.add((SimProcess) item);});
             return true;
         } catch (Exception e) {
-            // TODO: handle exception
             return false;
         }
     }
 
     @Override
     public boolean removeAll(Collection c) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'removeAll'");
     }
 
     @Override
     public boolean retainAll(Collection c) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'retainAll'");
     }
 
     @Override
     public void clear() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'clear'");
     }
 
     @Override
     public boolean add(Object e) {
-        // TODO Auto-generated method stub
         try {
             processList.add((SimProcess) e);
             return true;
@@ -121,7 +106,6 @@ public class ProcessQueue implements Queue{
 
     @Override
     public boolean offer(Object e) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'offer'");
     }
 
@@ -129,20 +113,17 @@ public class ProcessQueue implements Queue{
     
     @Override
     public SimProcess poll() {
-        // TODO Auto-generated method stub
         SimProcess temp = processList.remove(0);
         return temp;
     }
     
     @Override
     public SimProcess element() {
-        // TODO Auto-generated method stub
         return processList.get(0);
     }
     
     @Override
     public SimProcess peek() {
-        // TODO Auto-generated method stub
         return (processList.size() == 0) ? null : processList.get(0);
     }
     
