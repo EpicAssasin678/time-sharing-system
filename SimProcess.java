@@ -17,10 +17,10 @@ public class SimProcess {
         this.timeSlice = findOptimalTimeSlice();
     }
 
-    public SimProcess (int PID, int timeSlice, String processID) {
+    public SimProcess (int PID, int ticksToComplete, String processID) {
         this.PID = PID;
         this.processID = processID;
-        this.timeSlice = timeSlice;
+        this.ticksToComplete = ticksToComplete;
     }
 
     public SimProcess (int PID, int timeSlice, int ticksToComplete, String processID) {
@@ -28,6 +28,10 @@ public class SimProcess {
         this.processID = processID;
         this.timeSlice = timeSlice;
         this.ticksToComplete = ticksToComplete;
+    }
+
+    public void setTicksToComplete (int cur) {
+        this.ticksToComplete = cur;
     }
 
     /**
@@ -38,8 +42,6 @@ public class SimProcess {
         return (int) Math.random();
     }
 
-
-    
 
     public static void main(String[] args) {
         

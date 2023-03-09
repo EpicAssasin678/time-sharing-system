@@ -1,9 +1,10 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.Scanner;
-
+import java.io.FileWriter;
 
 /**
  * 
@@ -15,9 +16,11 @@ public class Scheduler {
 
     //instance fields
     public int totalTime = 0; 
+    public int totalProcesses = 0;
     public ArrayList<SimProcess> processList = new ArrayList<SimProcess>();
     public ProcessQueue processQueue = new ProcessQueue(processList);
-
+    public File auditLog = new File("./auditLog.txt");
+    public FileWriter logWriter;
     //processor instance
     public Processor processor;
     
@@ -26,37 +29,47 @@ public class Scheduler {
 
     }
 
-    public Scheduler (File processFile) {
+    public Scheduler (File processFile){
         try {
-            this.readProcessFile(processFile);
+            this.logWriter = new FileWriter(auditLog);
+            processList = this.readProcessFile(processFile);
+            this.processor = new Processor(totalTime, totalTime);
+            logWriter.write(String.format("[INITIALIZING] Scheduler created, using processor with following properties. \nClockrate: %d\nQuantum: %d", processor.clockRate, processor.timeSlice));
         } catch (Exception e) {
             // TODO: handle exception
         }
+        
     }
 
     public Scheduler (File processFile, Processor processor) {
         try {
-            this.readProcessFile(processFile);
+            this.logWriter = new FileWriter(auditLog);
+            processList = this.readProcessFile(processFile);
+            this.processor = processor;
+            logWriter.write(String.format("[INITIALIZING] Scheduler created, using processor with following properties. \nClockrate: %d\nQuantum: %d", processor.clockRate, processor.timeSlice));
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        this.processor = processor;
     }
 
     public ArrayList<SimProcess> readProcessFile (File processFile) throws Exception{
+        logWriter.write("\n[INITIALIZING] Processing input file.");
         //read the processFile and store into an arraylist
         Scanner fileScanner = new Scanner(processFile);
         ArrayList<SimProcess> temp = new ArrayList<SimProcess>();
-        
+        //seperate our file and enqueue our objects 
         while(fileScanner.hasNext()) {
             String cur = fileScanner.nextLine();
-            cur.split(',', 3);
-            
-
-            
+            String[] values = cur.split(", ");
+            processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
+            logWriter.write("\n[INITIALIZING] Loaded process to queue. PID:" + processQueue.peek().PID + "alias: " 
+                                + processQueue.peek().processID + "processingTicks: " + processQueue.peek().ticksToComplete);   
+            totalProcesses++;
+            //shouldn't need this
+            temp.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]));
         }
-
+        fileScanner.close();
         return temp;
     } 
 
@@ -64,12 +77,29 @@ public class Scheduler {
      * algorthim
      */
     public void roundRobinExecute () {
-        while (processQueue.size() != 0) {
-            SimProcess temp = processQueue.peek(); 
-            totalTime += processor.execute(temp);
-            if (processor.clockRate > temp.ticksToComplete) {
-                
+        try {
+            while (processQueue.size() != 0) {
+                SimProcess temp = processQueue.element(); 
+                int timeTaken = processor.execute(temp);
+                totalTime += timeTaken;
+                logWriter.write(String.format("\n[EXECUTION][TIME:%d] Executed %s in %d", totalTime, temp.processID, timeTaken));
+                //check if the process is finished 
+                if (temp.ticksToComplete == 0) {
+                    processQueue.remove();
+                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime));
+                }
+
+                //or if it needs to be requeued
+                else if (temp.ticksToComplete > 0) {
+                    processQueue.shuffleToBottom();
+                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Process has  %d remaining ticks to complete, shuffled to bottom of queue.", totalTime, temp.ticksToComplete));
+                    processor.switchContext();
+                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
+                } 
+
             }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
@@ -86,8 +116,8 @@ public class Scheduler {
 
     public static void main(String[] args) {
         //load library 
-        ArrayList<Integer> processes = new ArrayList<Integer>();
-        
+        Scheduler scheduler = new Scheduler(new File("./inputfile.txt"), new Processor(6, 5));        
+        scheduler.roundRobinExecute();
 
     }
 
