@@ -53,7 +53,7 @@ public class Scheduler {
             processList = this.readProcessFile(processFile);
             this.processor = processor;
             this.processor.systemClock = totalTime;
-            logWriter.write(String.format("[INITIALIZING] Scheduler created, using processor with following properties. \nClockrate: %d\nQuantum: %d", processor.clockRate, processor.timeSlice));
+            logWriter.write(String.format("\n[INITIALIZING] Scheduler created, using processor with following properties. \nClockrate: %d\nQuantum: %d", processor.clockRate, processor.timeSlice));
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
@@ -76,8 +76,8 @@ public class Scheduler {
             String[] values = cur.split(", ");
             processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
 
-            logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + processQueue.peek().PID + " alias: " 
-                                + processQueue.peek().processID + " processingTicks: " + processQueue.peek().ticksToComplete);   
+            logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + totalProcesses+1 + " alias: " 
+                                + values[0] + " processingTicks: " + values[1]);   
 
             totalProcesses++;
             //shouldn't need this
