@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Scheduler {
 
     //instance fields
+    public int totalTime = 0; 
     public ArrayList<SimProcess> processList = new ArrayList<SimProcess>();
     public ProcessQueue processQueue = new ProcessQueue(processList);
 
@@ -31,8 +32,11 @@ public class Scheduler {
         ArrayList<SimProcess> temp = new ArrayList<SimProcess>();
         
         while(fileScanner.hasNext()) {
+            String cur = fileScanner.nextLine();
+            cur.split(',', 3);
             
-            temp.add(new SimProcess());
+
+            
         }
 
         return temp;
