@@ -18,12 +18,30 @@ public class Scheduler {
     public ArrayList<SimProcess> processList = new ArrayList<SimProcess>();
     public ProcessQueue processQueue = new ProcessQueue(processList);
 
+    //processor instance
+    public Processor processor;
+    
+
     public Scheduler () {
 
     }
 
     public Scheduler (File processFile) {
+        try {
+            this.readProcessFile(processFile);
+        } catch (Exception e) {
+            // TODO: handle exception
+        }
+    }
 
+    public Scheduler (File processFile, Processor processor) {
+        try {
+            this.readProcessFile(processFile);
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        this.processor = processor;
     }
 
     public ArrayList<SimProcess> readProcessFile (File processFile) throws Exception{
@@ -46,7 +64,13 @@ public class Scheduler {
      * algorthim
      */
     public void roundRobinExecute () {
-
+        while (processQueue.size() != 0) {
+            SimProcess temp = processQueue.peek(); 
+            totalTime += processor.execute(temp);
+            if (processor.clockRate > temp.ticksToComplete) {
+                
+            }
+        }
     }
 
     /**

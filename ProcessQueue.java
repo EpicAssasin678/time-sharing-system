@@ -2,11 +2,13 @@ import java.util.Collection;
 import java.util.Iterator;
 import java.util.Queue;
 import java.util.List;
+import java.util.ArrayList;
 
 public class ProcessQueue implements Queue{
 
-    public ProcessQueue (List<SimProcess> processList) {
-
+    public ArrayList<SimProcess> processList;
+    public ProcessQueue (ArrayList<SimProcess> processList) {
+        this.processList = processList;
     }
 
     @Override
@@ -94,15 +96,16 @@ public class ProcessQueue implements Queue{
     }
 
     @Override
-    public Object remove() {
+    public SimProcess remove() {
         // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'remove'");
+        return processList.remove(0);
     }
 
     @Override
-    public Object poll() {
+    public SimProcess poll() {
         // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'poll'");
+        SimProcess temp = processList.remove(0);
+        return temp;
     }
 
     @Override
@@ -112,9 +115,9 @@ public class ProcessQueue implements Queue{
     }
 
     @Override
-    public Object peek() {
+    public SimProcess peek() {
         // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'peek'");
+        return processList.get(0);
     }
     
 }

@@ -11,6 +11,7 @@ public class Processor {
         return this.clockRate;
     }
 
+    //Don't use
     public int switchContext (SimProcess process) {
         return this.clockRate;
     }
