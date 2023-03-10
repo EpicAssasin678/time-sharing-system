@@ -5,7 +5,7 @@ public class Processor {
     int cycleCompletion; 
     int systemClock;
 
-    int contextSwitchValue = 4;
+    int contextSwitchValue = 1;
 
     public Processor (int clockRate) {
         this.clockRate = clockRate;

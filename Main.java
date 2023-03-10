@@ -21,7 +21,7 @@ public class Main {
 
     public static void main(String[] args) {
         //load library 
-        Scheduler scheduler = new Scheduler(new File("./inputfile.txt"), new Processor(6, 5));     
+        Scheduler scheduler = new Scheduler(new File("./inputfile.csv"), new Processor(6, 5));     
         scheduler.setCSVFlag(true);
         scheduler.roundRobinExecute();
         writeToCSV(new File("./csv_export.csv"), scheduler.CSVOutputStream);

@@ -73,7 +73,7 @@ public class Scheduler {
         while(fileScanner.hasNext()) {
 
             String cur = fileScanner.nextLine();
-            String[] values = cur.split(", ");
+            String[] values = cur.split(",");
             processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
 
             logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + totalProcesses+1 + " alias: " 
@@ -139,7 +139,7 @@ public class Scheduler {
             e.printStackTrace();
         }
 
-        if (CSVFlag) this.CSVOutputStream.add(1, String.format("%d, %d, %d", totalTime, processor.timeSlice, processor.contextSwitchValue));
+        if (CSVFlag) this.CSVOutputStream.add(1, String.format("%d,%d,%d", totalTime, processor.timeSlice, processor.contextSwitchValue));
         System.out.println(stats);
         System.out.println(CSVOutputStream);
     }
@@ -155,7 +155,7 @@ public class Scheduler {
 
     public static void main(String[] args) {
         //load library 
-        Scheduler scheduler = new Scheduler(new File("./inputfile.txt"), new Processor(6, 5));        
+        Scheduler scheduler = new Scheduler(new File("./inputfile.csv"), new Processor(6, 5));        
         scheduler.roundRobinExecute();
     }
 }

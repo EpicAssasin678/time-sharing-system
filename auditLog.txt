@@ -1,0 +1,2793 @@
+
+[INITIALIZING] Processing input file.
+[INITIALIZING] Loaded process to queue. PID: 01 alias: 1 processingTicks: 49
+[INITIALIZING] Loaded process to queue. PID: 11 alias: 2 processingTicks: 24
+[INITIALIZING] Loaded process to queue. PID: 21 alias: 3 processingTicks: 67
+[INITIALIZING] Loaded process to queue. PID: 31 alias: 4 processingTicks: 45
+[INITIALIZING] Loaded process to queue. PID: 41 alias: 5 processingTicks: 47
+[INITIALIZING] Loaded process to queue. PID: 51 alias: 6 processingTicks: 62
+[INITIALIZING] Loaded process to queue. PID: 61 alias: 7 processingTicks: 51
+[INITIALIZING] Loaded process to queue. PID: 71 alias: 8 processingTicks: 56
+[INITIALIZING] Loaded process to queue. PID: 81 alias: 9 processingTicks: 63
+[INITIALIZING] Loaded process to queue. PID: 91 alias: 10 processingTicks: 61
+[INITIALIZING] Loaded process to queue. PID: 101 alias: 11 processingTicks: 16
+[INITIALIZING] Loaded process to queue. PID: 111 alias: 12 processingTicks: 70
+[INITIALIZING] Loaded process to queue. PID: 121 alias: 13 processingTicks: 76
+[INITIALIZING] Loaded process to queue. PID: 131 alias: 14 processingTicks: 71
+[INITIALIZING] Loaded process to queue. PID: 141 alias: 15 processingTicks: 48
+[INITIALIZING] Loaded process to queue. PID: 151 alias: 16 processingTicks: 74
+[INITIALIZING] Loaded process to queue. PID: 161 alias: 17 processingTicks: 25
+[INITIALIZING] Loaded process to queue. PID: 171 alias: 18 processingTicks: 40
+[INITIALIZING] Loaded process to queue. PID: 181 alias: 19 processingTicks: 64
+[INITIALIZING] Loaded process to queue. PID: 191 alias: 20 processingTicks: 36
+[INITIALIZING] Loaded process to queue. PID: 201 alias: 21 processingTicks: 10
+[INITIALIZING] Loaded process to queue. PID: 211 alias: 22 processingTicks: 42
+[INITIALIZING] Loaded process to queue. PID: 221 alias: 23 processingTicks: 55
+[INITIALIZING] Loaded process to queue. PID: 231 alias: 24 processingTicks: 43
+[INITIALIZING] Loaded process to queue. PID: 241 alias: 25 processingTicks: 44
+[INITIALIZING] Loaded process to queue. PID: 251 alias: 26 processingTicks: 57
+[INITIALIZING] Loaded process to queue. PID: 261 alias: 27 processingTicks: 4
+[INITIALIZING] Loaded process to queue. PID: 271 alias: 28 processingTicks: 23
+[INITIALIZING] Loaded process to queue. PID: 281 alias: 29 processingTicks: 96
+[INITIALIZING] Loaded process to queue. PID: 291 alias: 30 processingTicks: 5
+[INITIALIZING] Loaded process to queue. PID: 301 alias: 31 processingTicks: 79
+[INITIALIZING] Loaded process to queue. PID: 311 alias: 32 processingTicks: 49
+[INITIALIZING] Loaded process to queue. PID: 321 alias: 33 processingTicks: 52
+[INITIALIZING] Loaded process to queue. PID: 331 alias: 34 processingTicks: 39
+[INITIALIZING] Loaded process to queue. PID: 341 alias: 35 processingTicks: 31
+[INITIALIZING] Loaded process to queue. PID: 351 alias: 36 processingTicks: 15
+[INITIALIZING] Loaded process to queue. PID: 361 alias: 37 processingTicks: 53
+[INITIALIZING] Loaded process to queue. PID: 371 alias: 38 processingTicks: 72
+[INITIALIZING] Loaded process to queue. PID: 381 alias: 39 processingTicks: 1
+[INITIALIZING] Loaded process to queue. PID: 391 alias: 40 processingTicks: 35
+[INITIALIZING] Loaded process to queue. PID: 401 alias: 41 processingTicks: 48
+[INITIALIZING] Loaded process to queue. PID: 411 alias: 42 processingTicks: 66
+[INITIALIZING] Loaded process to queue. PID: 421 alias: 43 processingTicks: 30
+[INITIALIZING] Loaded process to queue. PID: 431 alias: 44 processingTicks: 40
+[INITIALIZING] Loaded process to queue. PID: 441 alias: 45 processingTicks: 54
+[INITIALIZING] Loaded process to queue. PID: 451 alias: 46 processingTicks: 100
+[INITIALIZING] Loaded process to queue. PID: 461 alias: 47 processingTicks: 38
+[INITIALIZING] Loaded process to queue. PID: 471 alias: 48 processingTicks: 55
+[INITIALIZING] Loaded process to queue. PID: 481 alias: 49 processingTicks: 83
+[INITIALIZING] Loaded process to queue. PID: 491 alias: 50 processingTicks: 41
+[INITIALIZING] Loaded process to queue. PID: 501 alias: 51 processingTicks: 3
+[INITIALIZING] Loaded process to queue. PID: 511 alias: 52 processingTicks: 32
+[INITIALIZING] Loaded process to queue. PID: 521 alias: 53 processingTicks: 55
+[INITIALIZING] Loaded process to queue. PID: 531 alias: 54 processingTicks: 51
+[INITIALIZING] Loaded process to queue. PID: 541 alias: 55 processingTicks: 28
+[INITIALIZING] Loaded process to queue. PID: 551 alias: 56 processingTicks: 90
+[INITIALIZING] Loaded process to queue. PID: 561 alias: 57 processingTicks: 20
+[INITIALIZING] Loaded process to queue. PID: 571 alias: 58 processingTicks: 2
+[INITIALIZING] Loaded process to queue. PID: 581 alias: 59 processingTicks: 46
+[INITIALIZING] Loaded process to queue. PID: 591 alias: 60 processingTicks: 65
+[INITIALIZING] Loaded process to queue. PID: 601 alias: 61 processingTicks: 56
+[INITIALIZING] Loaded process to queue. PID: 611 alias: 62 processingTicks: 68
+[INITIALIZING] Loaded process to queue. PID: 621 alias: 63 processingTicks: 34
+[INITIALIZING] Loaded process to queue. PID: 631 alias: 64 processingTicks: 54
+[INITIALIZING] Loaded process to queue. PID: 641 alias: 65 processingTicks: 37
+[INITIALIZING] Loaded process to queue. PID: 651 alias: 66 processingTicks: 69
+[INITIALIZING] Loaded process to queue. PID: 661 alias: 67 processingTicks: 58
+[INITIALIZING] Loaded process to queue. PID: 671 alias: 68 processingTicks: 45
+[INITIALIZING] Loaded process to queue. PID: 681 alias: 69 processingTicks: 92
+[INITIALIZING] Loaded process to queue. PID: 691 alias: 70 processingTicks: 50
+[INITIALIZING] Loaded process to queue. PID: 701 alias: 71 processingTicks: 60
+[INITIALIZING] Loaded process to queue. PID: 711 alias: 72 processingTicks: 46
+[INITIALIZING] Loaded process to queue. PID: 721 alias: 73 processingTicks: 43
+[INITIALIZING] Loaded process to queue. PID: 731 alias: 74 processingTicks: 44
+[INITIALIZING] Loaded process to queue. PID: 741 alias: 75 processingTicks: 8
+[INITIALIZING] Loaded process to queue. PID: 751 alias: 76 processingTicks: 50
+[INITIALIZING] Loaded process to queue. PID: 761 alias: 77 processingTicks: 57
+[INITIALIZING] Loaded process to queue. PID: 771 alias: 78 processingTicks: 80
+[INITIALIZING] Loaded process to queue. PID: 781 alias: 79 processingTicks: 37
+[INITIALIZING] Loaded process to queue. PID: 791 alias: 80 processingTicks: 52
+[INITIALIZING] Loaded process to queue. PID: 801 alias: 81 processingTicks: 9
+[INITIALIZING] Loaded process to queue. PID: 811 alias: 82 processingTicks: 33
+[INITIALIZING] Loaded process to queue. PID: 821 alias: 83 processingTicks: 39
+[INITIALIZING] Loaded process to queue. PID: 831 alias: 84 processingTicks: 30
+[INITIALIZING] Loaded process to queue. PID: 841 alias: 85 processingTicks: 47
+[INITIALIZING] Loaded process to queue. PID: 851 alias: 86 processingTicks: 47
+[INITIALIZING] Loaded process to queue. PID: 861 alias: 87 processingTicks: 41
+[INITIALIZING] Loaded process to queue. PID: 871 alias: 88 processingTicks: 60
+[INITIALIZING] Loaded process to queue. PID: 881 alias: 89 processingTicks: 58
+[INITIALIZING] Loaded process to queue. PID: 891 alias: 90 processingTicks: 46
+[INITIALIZING] Loaded process to queue. PID: 901 alias: 91 processingTicks: 59
+[INITIALIZING] Loaded process to queue. PID: 911 alias: 92 processingTicks: 50
+[INITIALIZING] Loaded process to queue. PID: 921 alias: 93 processingTicks: 64
+[INITIALIZING] Loaded process to queue. PID: 931 alias: 94 processingTicks: 12
+[INITIALIZING] Loaded process to queue. PID: 941 alias: 95 processingTicks: 42
+[INITIALIZING] Loaded process to queue. PID: 951 alias: 96 processingTicks: 42
+[INITIALIZING] Loaded process to queue. PID: 961 alias: 97 processingTicks: 53
+[INITIALIZING] Loaded process to queue. PID: 971 alias: 98 processingTicks: 59
+[INITIALIZING] Loaded process to queue. PID: 981 alias: 99 processingTicks: 27
+[INITIALIZING] Loaded process to queue. PID: 991 alias: 100 processingTicks: 6
+[INITIALIZING] Scheduler created, using processor with following properties. 
+Clockrate: 6
+Quantum: 5
+[EXECUTION][TIME:5] Executed 1 in 5
+[EXECUTION][TIME:5] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:5] Context switched to head of queue.
+[EXECUTION][TIME:10] Executed 2 in 5
+[EXECUTION][TIME:10] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:10] Context switched to head of queue.
+[EXECUTION][TIME:15] Executed 3 in 5
+[EXECUTION][TIME:15] Process has  62 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:15] Context switched to head of queue.
+[EXECUTION][TIME:20] Executed 4 in 5
+[EXECUTION][TIME:20] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:20] Context switched to head of queue.
+[EXECUTION][TIME:25] Executed 5 in 5
+[EXECUTION][TIME:25] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:25] Context switched to head of queue.
+[EXECUTION][TIME:30] Executed 6 in 5
+[EXECUTION][TIME:30] Process has  57 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:30] Context switched to head of queue.
+[EXECUTION][TIME:35] Executed 7 in 5
+[EXECUTION][TIME:35] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:35] Context switched to head of queue.
+[EXECUTION][TIME:40] Executed 8 in 5
+[EXECUTION][TIME:40] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:40] Context switched to head of queue.
+[EXECUTION][TIME:45] Executed 9 in 5
+[EXECUTION][TIME:45] Process has  58 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:45] Context switched to head of queue.
+[EXECUTION][TIME:50] Executed 10 in 5
+[EXECUTION][TIME:50] Process has  56 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:50] Context switched to head of queue.
+[EXECUTION][TIME:55] Executed 11 in 5
+[EXECUTION][TIME:55] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:55] Context switched to head of queue.
+[EXECUTION][TIME:60] Executed 12 in 5
+[EXECUTION][TIME:60] Process has  65 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:60] Context switched to head of queue.
+[EXECUTION][TIME:65] Executed 13 in 5
+[EXECUTION][TIME:65] Process has  71 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:65] Context switched to head of queue.
+[EXECUTION][TIME:70] Executed 14 in 5
+[EXECUTION][TIME:70] Process has  66 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:70] Context switched to head of queue.
+[EXECUTION][TIME:75] Executed 15 in 5
+[EXECUTION][TIME:75] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:75] Context switched to head of queue.
+[EXECUTION][TIME:80] Executed 16 in 5
+[EXECUTION][TIME:80] Process has  69 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:80] Context switched to head of queue.
+[EXECUTION][TIME:85] Executed 17 in 5
+[EXECUTION][TIME:85] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:85] Context switched to head of queue.
+[EXECUTION][TIME:90] Executed 18 in 5
+[EXECUTION][TIME:90] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:90] Context switched to head of queue.
+[EXECUTION][TIME:95] Executed 19 in 5
+[EXECUTION][TIME:95] Process has  59 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:95] Context switched to head of queue.
+[EXECUTION][TIME:100] Executed 20 in 5
+[EXECUTION][TIME:100] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:100] Context switched to head of queue.
+[EXECUTION][TIME:105] Executed 21 in 5
+[EXECUTION][TIME:105] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:105] Context switched to head of queue.
+[EXECUTION][TIME:110] Executed 22 in 5
+[EXECUTION][TIME:110] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:110] Context switched to head of queue.
+[EXECUTION][TIME:115] Executed 23 in 5
+[EXECUTION][TIME:115] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:115] Context switched to head of queue.
+[EXECUTION][TIME:120] Executed 24 in 5
+[EXECUTION][TIME:120] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:120] Context switched to head of queue.
+[EXECUTION][TIME:125] Executed 25 in 5
+[EXECUTION][TIME:125] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:125] Context switched to head of queue.
+[EXECUTION][TIME:130] Executed 26 in 5
+[EXECUTION][TIME:130] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:130] Context switched to head of queue.
+[EXECUTION][TIME:134] Executed 27 in 4
+[EXECUTION][TIME:134] Completed following process, removed from queue.
+[EXECUTION][TIME:139] Executed 28 in 5
+[EXECUTION][TIME:139] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:139] Context switched to head of queue.
+[EXECUTION][TIME:144] Executed 29 in 5
+[EXECUTION][TIME:144] Process has  91 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:144] Context switched to head of queue.
+[EXECUTION][TIME:149] Executed 30 in 5
+[EXECUTION][TIME:149] Completed following process, removed from queue.
+[EXECUTION][TIME:154] Executed 31 in 5
+[EXECUTION][TIME:154] Process has  74 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:154] Context switched to head of queue.
+[EXECUTION][TIME:159] Executed 32 in 5
+[EXECUTION][TIME:159] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:159] Context switched to head of queue.
+[EXECUTION][TIME:164] Executed 33 in 5
+[EXECUTION][TIME:164] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:164] Context switched to head of queue.
+[EXECUTION][TIME:169] Executed 34 in 5
+[EXECUTION][TIME:169] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:169] Context switched to head of queue.
+[EXECUTION][TIME:174] Executed 35 in 5
+[EXECUTION][TIME:174] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:174] Context switched to head of queue.
+[EXECUTION][TIME:179] Executed 36 in 5
+[EXECUTION][TIME:179] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:179] Context switched to head of queue.
+[EXECUTION][TIME:184] Executed 37 in 5
+[EXECUTION][TIME:184] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:184] Context switched to head of queue.
+[EXECUTION][TIME:189] Executed 38 in 5
+[EXECUTION][TIME:189] Process has  67 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:189] Context switched to head of queue.
+[EXECUTION][TIME:190] Executed 39 in 1
+[EXECUTION][TIME:190] Completed following process, removed from queue.
+[EXECUTION][TIME:195] Executed 40 in 5
+[EXECUTION][TIME:195] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:195] Context switched to head of queue.
+[EXECUTION][TIME:200] Executed 41 in 5
+[EXECUTION][TIME:200] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:200] Context switched to head of queue.
+[EXECUTION][TIME:205] Executed 42 in 5
+[EXECUTION][TIME:205] Process has  61 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:205] Context switched to head of queue.
+[EXECUTION][TIME:210] Executed 43 in 5
+[EXECUTION][TIME:210] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:210] Context switched to head of queue.
+[EXECUTION][TIME:215] Executed 44 in 5
+[EXECUTION][TIME:215] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:215] Context switched to head of queue.
+[EXECUTION][TIME:220] Executed 45 in 5
+[EXECUTION][TIME:220] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:220] Context switched to head of queue.
+[EXECUTION][TIME:225] Executed 46 in 5
+[EXECUTION][TIME:225] Process has  95 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:225] Context switched to head of queue.
+[EXECUTION][TIME:230] Executed 47 in 5
+[EXECUTION][TIME:230] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:230] Context switched to head of queue.
+[EXECUTION][TIME:235] Executed 48 in 5
+[EXECUTION][TIME:235] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:235] Context switched to head of queue.
+[EXECUTION][TIME:240] Executed 49 in 5
+[EXECUTION][TIME:240] Process has  78 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:240] Context switched to head of queue.
+[EXECUTION][TIME:245] Executed 50 in 5
+[EXECUTION][TIME:245] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:245] Context switched to head of queue.
+[EXECUTION][TIME:248] Executed 51 in 3
+[EXECUTION][TIME:248] Completed following process, removed from queue.
+[EXECUTION][TIME:253] Executed 52 in 5
+[EXECUTION][TIME:253] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:253] Context switched to head of queue.
+[EXECUTION][TIME:258] Executed 53 in 5
+[EXECUTION][TIME:258] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:258] Context switched to head of queue.
+[EXECUTION][TIME:263] Executed 54 in 5
+[EXECUTION][TIME:263] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:263] Context switched to head of queue.
+[EXECUTION][TIME:268] Executed 55 in 5
+[EXECUTION][TIME:268] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:268] Context switched to head of queue.
+[EXECUTION][TIME:273] Executed 56 in 5
+[EXECUTION][TIME:273] Process has  85 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:273] Context switched to head of queue.
+[EXECUTION][TIME:278] Executed 57 in 5
+[EXECUTION][TIME:278] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:278] Context switched to head of queue.
+[EXECUTION][TIME:280] Executed 58 in 2
+[EXECUTION][TIME:280] Completed following process, removed from queue.
+[EXECUTION][TIME:285] Executed 59 in 5
+[EXECUTION][TIME:285] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:285] Context switched to head of queue.
+[EXECUTION][TIME:290] Executed 60 in 5
+[EXECUTION][TIME:290] Process has  60 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:290] Context switched to head of queue.
+[EXECUTION][TIME:295] Executed 61 in 5
+[EXECUTION][TIME:295] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:295] Context switched to head of queue.
+[EXECUTION][TIME:300] Executed 62 in 5
+[EXECUTION][TIME:300] Process has  63 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:300] Context switched to head of queue.
+[EXECUTION][TIME:305] Executed 63 in 5
+[EXECUTION][TIME:305] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:305] Context switched to head of queue.
+[EXECUTION][TIME:310] Executed 64 in 5
+[EXECUTION][TIME:310] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:310] Context switched to head of queue.
+[EXECUTION][TIME:315] Executed 65 in 5
+[EXECUTION][TIME:315] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:315] Context switched to head of queue.
+[EXECUTION][TIME:320] Executed 66 in 5
+[EXECUTION][TIME:320] Process has  64 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:320] Context switched to head of queue.
+[EXECUTION][TIME:325] Executed 67 in 5
+[EXECUTION][TIME:325] Process has  53 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:325] Context switched to head of queue.
+[EXECUTION][TIME:330] Executed 68 in 5
+[EXECUTION][TIME:330] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:330] Context switched to head of queue.
+[EXECUTION][TIME:335] Executed 69 in 5
+[EXECUTION][TIME:335] Process has  87 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:335] Context switched to head of queue.
+[EXECUTION][TIME:340] Executed 70 in 5
+[EXECUTION][TIME:340] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:340] Context switched to head of queue.
+[EXECUTION][TIME:345] Executed 71 in 5
+[EXECUTION][TIME:345] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:345] Context switched to head of queue.
+[EXECUTION][TIME:350] Executed 72 in 5
+[EXECUTION][TIME:350] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:350] Context switched to head of queue.
+[EXECUTION][TIME:355] Executed 73 in 5
+[EXECUTION][TIME:355] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:355] Context switched to head of queue.
+[EXECUTION][TIME:360] Executed 74 in 5
+[EXECUTION][TIME:360] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:360] Context switched to head of queue.
+[EXECUTION][TIME:365] Executed 75 in 5
+[EXECUTION][TIME:365] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:365] Context switched to head of queue.
+[EXECUTION][TIME:370] Executed 76 in 5
+[EXECUTION][TIME:370] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:370] Context switched to head of queue.
+[EXECUTION][TIME:375] Executed 77 in 5
+[EXECUTION][TIME:375] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:375] Context switched to head of queue.
+[EXECUTION][TIME:380] Executed 78 in 5
+[EXECUTION][TIME:380] Process has  75 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:380] Context switched to head of queue.
+[EXECUTION][TIME:385] Executed 79 in 5
+[EXECUTION][TIME:385] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:385] Context switched to head of queue.
+[EXECUTION][TIME:390] Executed 80 in 5
+[EXECUTION][TIME:390] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:390] Context switched to head of queue.
+[EXECUTION][TIME:395] Executed 81 in 5
+[EXECUTION][TIME:395] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:395] Context switched to head of queue.
+[EXECUTION][TIME:400] Executed 82 in 5
+[EXECUTION][TIME:400] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:400] Context switched to head of queue.
+[EXECUTION][TIME:405] Executed 83 in 5
+[EXECUTION][TIME:405] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:405] Context switched to head of queue.
+[EXECUTION][TIME:410] Executed 84 in 5
+[EXECUTION][TIME:410] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:410] Context switched to head of queue.
+[EXECUTION][TIME:415] Executed 85 in 5
+[EXECUTION][TIME:415] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:415] Context switched to head of queue.
+[EXECUTION][TIME:420] Executed 86 in 5
+[EXECUTION][TIME:420] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:420] Context switched to head of queue.
+[EXECUTION][TIME:425] Executed 87 in 5
+[EXECUTION][TIME:425] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:425] Context switched to head of queue.
+[EXECUTION][TIME:430] Executed 88 in 5
+[EXECUTION][TIME:430] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:430] Context switched to head of queue.
+[EXECUTION][TIME:435] Executed 89 in 5
+[EXECUTION][TIME:435] Process has  53 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:435] Context switched to head of queue.
+[EXECUTION][TIME:440] Executed 90 in 5
+[EXECUTION][TIME:440] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:440] Context switched to head of queue.
+[EXECUTION][TIME:445] Executed 91 in 5
+[EXECUTION][TIME:445] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:445] Context switched to head of queue.
+[EXECUTION][TIME:450] Executed 92 in 5
+[EXECUTION][TIME:450] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:450] Context switched to head of queue.
+[EXECUTION][TIME:455] Executed 93 in 5
+[EXECUTION][TIME:455] Process has  59 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:455] Context switched to head of queue.
+[EXECUTION][TIME:460] Executed 94 in 5
+[EXECUTION][TIME:460] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:460] Context switched to head of queue.
+[EXECUTION][TIME:465] Executed 95 in 5
+[EXECUTION][TIME:465] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:465] Context switched to head of queue.
+[EXECUTION][TIME:470] Executed 96 in 5
+[EXECUTION][TIME:470] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:470] Context switched to head of queue.
+[EXECUTION][TIME:475] Executed 97 in 5
+[EXECUTION][TIME:475] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:475] Context switched to head of queue.
+[EXECUTION][TIME:480] Executed 98 in 5
+[EXECUTION][TIME:480] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:480] Context switched to head of queue.
+[EXECUTION][TIME:485] Executed 99 in 5
+[EXECUTION][TIME:485] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:485] Context switched to head of queue.
+[EXECUTION][TIME:490] Executed 100 in 5
+[EXECUTION][TIME:490] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:490] Context switched to head of queue.
+[EXECUTION][TIME:495] Executed 1 in 5
+[EXECUTION][TIME:495] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:495] Context switched to head of queue.
+[EXECUTION][TIME:500] Executed 2 in 5
+[EXECUTION][TIME:500] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:500] Context switched to head of queue.
+[EXECUTION][TIME:505] Executed 3 in 5
+[EXECUTION][TIME:505] Process has  57 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:505] Context switched to head of queue.
+[EXECUTION][TIME:510] Executed 4 in 5
+[EXECUTION][TIME:510] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:510] Context switched to head of queue.
+[EXECUTION][TIME:515] Executed 5 in 5
+[EXECUTION][TIME:515] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:515] Context switched to head of queue.
+[EXECUTION][TIME:520] Executed 6 in 5
+[EXECUTION][TIME:520] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:520] Context switched to head of queue.
+[EXECUTION][TIME:525] Executed 7 in 5
+[EXECUTION][TIME:525] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:525] Context switched to head of queue.
+[EXECUTION][TIME:530] Executed 8 in 5
+[EXECUTION][TIME:530] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:530] Context switched to head of queue.
+[EXECUTION][TIME:535] Executed 9 in 5
+[EXECUTION][TIME:535] Process has  53 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:535] Context switched to head of queue.
+[EXECUTION][TIME:540] Executed 10 in 5
+[EXECUTION][TIME:540] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:540] Context switched to head of queue.
+[EXECUTION][TIME:545] Executed 11 in 5
+[EXECUTION][TIME:545] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:545] Context switched to head of queue.
+[EXECUTION][TIME:550] Executed 12 in 5
+[EXECUTION][TIME:550] Process has  60 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:550] Context switched to head of queue.
+[EXECUTION][TIME:555] Executed 13 in 5
+[EXECUTION][TIME:555] Process has  66 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:555] Context switched to head of queue.
+[EXECUTION][TIME:560] Executed 14 in 5
+[EXECUTION][TIME:560] Process has  61 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:560] Context switched to head of queue.
+[EXECUTION][TIME:565] Executed 15 in 5
+[EXECUTION][TIME:565] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:565] Context switched to head of queue.
+[EXECUTION][TIME:570] Executed 16 in 5
+[EXECUTION][TIME:570] Process has  64 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:570] Context switched to head of queue.
+[EXECUTION][TIME:575] Executed 17 in 5
+[EXECUTION][TIME:575] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:575] Context switched to head of queue.
+[EXECUTION][TIME:580] Executed 18 in 5
+[EXECUTION][TIME:580] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:580] Context switched to head of queue.
+[EXECUTION][TIME:585] Executed 19 in 5
+[EXECUTION][TIME:585] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:585] Context switched to head of queue.
+[EXECUTION][TIME:590] Executed 20 in 5
+[EXECUTION][TIME:590] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:590] Context switched to head of queue.
+[EXECUTION][TIME:595] Executed 21 in 5
+[EXECUTION][TIME:595] Completed following process, removed from queue.
+[EXECUTION][TIME:600] Executed 22 in 5
+[EXECUTION][TIME:600] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:600] Context switched to head of queue.
+[EXECUTION][TIME:605] Executed 23 in 5
+[EXECUTION][TIME:605] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:605] Context switched to head of queue.
+[EXECUTION][TIME:610] Executed 24 in 5
+[EXECUTION][TIME:610] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:610] Context switched to head of queue.
+[EXECUTION][TIME:615] Executed 25 in 5
+[EXECUTION][TIME:615] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:615] Context switched to head of queue.
+[EXECUTION][TIME:620] Executed 26 in 5
+[EXECUTION][TIME:620] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:620] Context switched to head of queue.
+[EXECUTION][TIME:625] Executed 28 in 5
+[EXECUTION][TIME:625] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:625] Context switched to head of queue.
+[EXECUTION][TIME:630] Executed 29 in 5
+[EXECUTION][TIME:630] Process has  86 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:630] Context switched to head of queue.
+[EXECUTION][TIME:635] Executed 31 in 5
+[EXECUTION][TIME:635] Process has  69 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:635] Context switched to head of queue.
+[EXECUTION][TIME:640] Executed 32 in 5
+[EXECUTION][TIME:640] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:640] Context switched to head of queue.
+[EXECUTION][TIME:645] Executed 33 in 5
+[EXECUTION][TIME:645] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:645] Context switched to head of queue.
+[EXECUTION][TIME:650] Executed 34 in 5
+[EXECUTION][TIME:650] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:650] Context switched to head of queue.
+[EXECUTION][TIME:655] Executed 35 in 5
+[EXECUTION][TIME:655] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:655] Context switched to head of queue.
+[EXECUTION][TIME:660] Executed 36 in 5
+[EXECUTION][TIME:660] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:660] Context switched to head of queue.
+[EXECUTION][TIME:665] Executed 37 in 5
+[EXECUTION][TIME:665] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:665] Context switched to head of queue.
+[EXECUTION][TIME:670] Executed 38 in 5
+[EXECUTION][TIME:670] Process has  62 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:670] Context switched to head of queue.
+[EXECUTION][TIME:675] Executed 40 in 5
+[EXECUTION][TIME:675] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:675] Context switched to head of queue.
+[EXECUTION][TIME:680] Executed 41 in 5
+[EXECUTION][TIME:680] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:680] Context switched to head of queue.
+[EXECUTION][TIME:685] Executed 42 in 5
+[EXECUTION][TIME:685] Process has  56 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:685] Context switched to head of queue.
+[EXECUTION][TIME:690] Executed 43 in 5
+[EXECUTION][TIME:690] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:690] Context switched to head of queue.
+[EXECUTION][TIME:695] Executed 44 in 5
+[EXECUTION][TIME:695] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:695] Context switched to head of queue.
+[EXECUTION][TIME:700] Executed 45 in 5
+[EXECUTION][TIME:700] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:700] Context switched to head of queue.
+[EXECUTION][TIME:705] Executed 46 in 5
+[EXECUTION][TIME:705] Process has  90 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:705] Context switched to head of queue.
+[EXECUTION][TIME:710] Executed 47 in 5
+[EXECUTION][TIME:710] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:710] Context switched to head of queue.
+[EXECUTION][TIME:715] Executed 48 in 5
+[EXECUTION][TIME:715] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:715] Context switched to head of queue.
+[EXECUTION][TIME:720] Executed 49 in 5
+[EXECUTION][TIME:720] Process has  73 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:720] Context switched to head of queue.
+[EXECUTION][TIME:725] Executed 50 in 5
+[EXECUTION][TIME:725] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:725] Context switched to head of queue.
+[EXECUTION][TIME:730] Executed 52 in 5
+[EXECUTION][TIME:730] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:730] Context switched to head of queue.
+[EXECUTION][TIME:735] Executed 53 in 5
+[EXECUTION][TIME:735] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:735] Context switched to head of queue.
+[EXECUTION][TIME:740] Executed 54 in 5
+[EXECUTION][TIME:740] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:740] Context switched to head of queue.
+[EXECUTION][TIME:745] Executed 55 in 5
+[EXECUTION][TIME:745] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:745] Context switched to head of queue.
+[EXECUTION][TIME:750] Executed 56 in 5
+[EXECUTION][TIME:750] Process has  80 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:750] Context switched to head of queue.
+[EXECUTION][TIME:755] Executed 57 in 5
+[EXECUTION][TIME:755] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:755] Context switched to head of queue.
+[EXECUTION][TIME:760] Executed 59 in 5
+[EXECUTION][TIME:760] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:760] Context switched to head of queue.
+[EXECUTION][TIME:765] Executed 60 in 5
+[EXECUTION][TIME:765] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:765] Context switched to head of queue.
+[EXECUTION][TIME:770] Executed 61 in 5
+[EXECUTION][TIME:770] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:770] Context switched to head of queue.
+[EXECUTION][TIME:775] Executed 62 in 5
+[EXECUTION][TIME:775] Process has  58 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:775] Context switched to head of queue.
+[EXECUTION][TIME:780] Executed 63 in 5
+[EXECUTION][TIME:780] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:780] Context switched to head of queue.
+[EXECUTION][TIME:785] Executed 64 in 5
+[EXECUTION][TIME:785] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:785] Context switched to head of queue.
+[EXECUTION][TIME:790] Executed 65 in 5
+[EXECUTION][TIME:790] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:790] Context switched to head of queue.
+[EXECUTION][TIME:795] Executed 66 in 5
+[EXECUTION][TIME:795] Process has  59 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:795] Context switched to head of queue.
+[EXECUTION][TIME:800] Executed 67 in 5
+[EXECUTION][TIME:800] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:800] Context switched to head of queue.
+[EXECUTION][TIME:805] Executed 68 in 5
+[EXECUTION][TIME:805] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:805] Context switched to head of queue.
+[EXECUTION][TIME:810] Executed 69 in 5
+[EXECUTION][TIME:810] Process has  82 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:810] Context switched to head of queue.
+[EXECUTION][TIME:815] Executed 70 in 5
+[EXECUTION][TIME:815] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:815] Context switched to head of queue.
+[EXECUTION][TIME:820] Executed 71 in 5
+[EXECUTION][TIME:820] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:820] Context switched to head of queue.
+[EXECUTION][TIME:825] Executed 72 in 5
+[EXECUTION][TIME:825] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:825] Context switched to head of queue.
+[EXECUTION][TIME:830] Executed 73 in 5
+[EXECUTION][TIME:830] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:830] Context switched to head of queue.
+[EXECUTION][TIME:835] Executed 74 in 5
+[EXECUTION][TIME:835] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:835] Context switched to head of queue.
+[EXECUTION][TIME:838] Executed 75 in 3
+[EXECUTION][TIME:838] Completed following process, removed from queue.
+[EXECUTION][TIME:843] Executed 76 in 5
+[EXECUTION][TIME:843] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:843] Context switched to head of queue.
+[EXECUTION][TIME:848] Executed 77 in 5
+[EXECUTION][TIME:848] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:848] Context switched to head of queue.
+[EXECUTION][TIME:853] Executed 78 in 5
+[EXECUTION][TIME:853] Process has  70 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:853] Context switched to head of queue.
+[EXECUTION][TIME:858] Executed 79 in 5
+[EXECUTION][TIME:858] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:858] Context switched to head of queue.
+[EXECUTION][TIME:863] Executed 80 in 5
+[EXECUTION][TIME:863] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:863] Context switched to head of queue.
+[EXECUTION][TIME:867] Executed 81 in 4
+[EXECUTION][TIME:867] Completed following process, removed from queue.
+[EXECUTION][TIME:872] Executed 82 in 5
+[EXECUTION][TIME:872] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:872] Context switched to head of queue.
+[EXECUTION][TIME:877] Executed 83 in 5
+[EXECUTION][TIME:877] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:877] Context switched to head of queue.
+[EXECUTION][TIME:882] Executed 84 in 5
+[EXECUTION][TIME:882] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:882] Context switched to head of queue.
+[EXECUTION][TIME:887] Executed 85 in 5
+[EXECUTION][TIME:887] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:887] Context switched to head of queue.
+[EXECUTION][TIME:892] Executed 86 in 5
+[EXECUTION][TIME:892] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:892] Context switched to head of queue.
+[EXECUTION][TIME:897] Executed 87 in 5
+[EXECUTION][TIME:897] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:897] Context switched to head of queue.
+[EXECUTION][TIME:902] Executed 88 in 5
+[EXECUTION][TIME:902] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:902] Context switched to head of queue.
+[EXECUTION][TIME:907] Executed 89 in 5
+[EXECUTION][TIME:907] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:907] Context switched to head of queue.
+[EXECUTION][TIME:912] Executed 90 in 5
+[EXECUTION][TIME:912] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:912] Context switched to head of queue.
+[EXECUTION][TIME:917] Executed 91 in 5
+[EXECUTION][TIME:917] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:917] Context switched to head of queue.
+[EXECUTION][TIME:922] Executed 92 in 5
+[EXECUTION][TIME:922] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:922] Context switched to head of queue.
+[EXECUTION][TIME:927] Executed 93 in 5
+[EXECUTION][TIME:927] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:927] Context switched to head of queue.
+[EXECUTION][TIME:932] Executed 94 in 5
+[EXECUTION][TIME:932] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:932] Context switched to head of queue.
+[EXECUTION][TIME:937] Executed 95 in 5
+[EXECUTION][TIME:937] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:937] Context switched to head of queue.
+[EXECUTION][TIME:942] Executed 96 in 5
+[EXECUTION][TIME:942] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:942] Context switched to head of queue.
+[EXECUTION][TIME:947] Executed 97 in 5
+[EXECUTION][TIME:947] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:947] Context switched to head of queue.
+[EXECUTION][TIME:952] Executed 98 in 5
+[EXECUTION][TIME:952] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:952] Context switched to head of queue.
+[EXECUTION][TIME:957] Executed 99 in 5
+[EXECUTION][TIME:957] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:957] Context switched to head of queue.
+[EXECUTION][TIME:958] Executed 100 in 1
+[EXECUTION][TIME:958] Completed following process, removed from queue.
+[EXECUTION][TIME:963] Executed 1 in 5
+[EXECUTION][TIME:963] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:963] Context switched to head of queue.
+[EXECUTION][TIME:968] Executed 2 in 5
+[EXECUTION][TIME:968] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:968] Context switched to head of queue.
+[EXECUTION][TIME:973] Executed 3 in 5
+[EXECUTION][TIME:973] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:973] Context switched to head of queue.
+[EXECUTION][TIME:978] Executed 4 in 5
+[EXECUTION][TIME:978] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:978] Context switched to head of queue.
+[EXECUTION][TIME:983] Executed 5 in 5
+[EXECUTION][TIME:983] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:983] Context switched to head of queue.
+[EXECUTION][TIME:988] Executed 6 in 5
+[EXECUTION][TIME:988] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:988] Context switched to head of queue.
+[EXECUTION][TIME:993] Executed 7 in 5
+[EXECUTION][TIME:993] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:993] Context switched to head of queue.
+[EXECUTION][TIME:998] Executed 8 in 5
+[EXECUTION][TIME:998] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:998] Context switched to head of queue.
+[EXECUTION][TIME:1003] Executed 9 in 5
+[EXECUTION][TIME:1003] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1003] Context switched to head of queue.
+[EXECUTION][TIME:1008] Executed 10 in 5
+[EXECUTION][TIME:1008] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1008] Context switched to head of queue.
+[EXECUTION][TIME:1013] Executed 11 in 5
+[EXECUTION][TIME:1013] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1013] Context switched to head of queue.
+[EXECUTION][TIME:1018] Executed 12 in 5
+[EXECUTION][TIME:1018] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1018] Context switched to head of queue.
+[EXECUTION][TIME:1023] Executed 13 in 5
+[EXECUTION][TIME:1023] Process has  61 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1023] Context switched to head of queue.
+[EXECUTION][TIME:1028] Executed 14 in 5
+[EXECUTION][TIME:1028] Process has  56 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1028] Context switched to head of queue.
+[EXECUTION][TIME:1033] Executed 15 in 5
+[EXECUTION][TIME:1033] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1033] Context switched to head of queue.
+[EXECUTION][TIME:1038] Executed 16 in 5
+[EXECUTION][TIME:1038] Process has  59 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1038] Context switched to head of queue.
+[EXECUTION][TIME:1043] Executed 17 in 5
+[EXECUTION][TIME:1043] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1043] Context switched to head of queue.
+[EXECUTION][TIME:1048] Executed 18 in 5
+[EXECUTION][TIME:1048] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1048] Context switched to head of queue.
+[EXECUTION][TIME:1053] Executed 19 in 5
+[EXECUTION][TIME:1053] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1053] Context switched to head of queue.
+[EXECUTION][TIME:1058] Executed 20 in 5
+[EXECUTION][TIME:1058] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1058] Context switched to head of queue.
+[EXECUTION][TIME:1063] Executed 22 in 5
+[EXECUTION][TIME:1063] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1063] Context switched to head of queue.
+[EXECUTION][TIME:1068] Executed 23 in 5
+[EXECUTION][TIME:1068] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1068] Context switched to head of queue.
+[EXECUTION][TIME:1073] Executed 24 in 5
+[EXECUTION][TIME:1073] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1073] Context switched to head of queue.
+[EXECUTION][TIME:1078] Executed 25 in 5
+[EXECUTION][TIME:1078] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1078] Context switched to head of queue.
+[EXECUTION][TIME:1083] Executed 26 in 5
+[EXECUTION][TIME:1083] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1083] Context switched to head of queue.
+[EXECUTION][TIME:1088] Executed 28 in 5
+[EXECUTION][TIME:1088] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1088] Context switched to head of queue.
+[EXECUTION][TIME:1093] Executed 29 in 5
+[EXECUTION][TIME:1093] Process has  81 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1093] Context switched to head of queue.
+[EXECUTION][TIME:1098] Executed 31 in 5
+[EXECUTION][TIME:1098] Process has  64 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1098] Context switched to head of queue.
+[EXECUTION][TIME:1103] Executed 32 in 5
+[EXECUTION][TIME:1103] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1103] Context switched to head of queue.
+[EXECUTION][TIME:1108] Executed 33 in 5
+[EXECUTION][TIME:1108] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1108] Context switched to head of queue.
+[EXECUTION][TIME:1113] Executed 34 in 5
+[EXECUTION][TIME:1113] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1113] Context switched to head of queue.
+[EXECUTION][TIME:1118] Executed 35 in 5
+[EXECUTION][TIME:1118] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1118] Context switched to head of queue.
+[EXECUTION][TIME:1123] Executed 36 in 5
+[EXECUTION][TIME:1123] Completed following process, removed from queue.
+[EXECUTION][TIME:1128] Executed 37 in 5
+[EXECUTION][TIME:1128] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1128] Context switched to head of queue.
+[EXECUTION][TIME:1133] Executed 38 in 5
+[EXECUTION][TIME:1133] Process has  57 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1133] Context switched to head of queue.
+[EXECUTION][TIME:1138] Executed 40 in 5
+[EXECUTION][TIME:1138] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1138] Context switched to head of queue.
+[EXECUTION][TIME:1143] Executed 41 in 5
+[EXECUTION][TIME:1143] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1143] Context switched to head of queue.
+[EXECUTION][TIME:1148] Executed 42 in 5
+[EXECUTION][TIME:1148] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1148] Context switched to head of queue.
+[EXECUTION][TIME:1153] Executed 43 in 5
+[EXECUTION][TIME:1153] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1153] Context switched to head of queue.
+[EXECUTION][TIME:1158] Executed 44 in 5
+[EXECUTION][TIME:1158] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1158] Context switched to head of queue.
+[EXECUTION][TIME:1163] Executed 45 in 5
+[EXECUTION][TIME:1163] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1163] Context switched to head of queue.
+[EXECUTION][TIME:1168] Executed 46 in 5
+[EXECUTION][TIME:1168] Process has  85 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1168] Context switched to head of queue.
+[EXECUTION][TIME:1173] Executed 47 in 5
+[EXECUTION][TIME:1173] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1173] Context switched to head of queue.
+[EXECUTION][TIME:1178] Executed 48 in 5
+[EXECUTION][TIME:1178] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1178] Context switched to head of queue.
+[EXECUTION][TIME:1183] Executed 49 in 5
+[EXECUTION][TIME:1183] Process has  68 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1183] Context switched to head of queue.
+[EXECUTION][TIME:1188] Executed 50 in 5
+[EXECUTION][TIME:1188] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1188] Context switched to head of queue.
+[EXECUTION][TIME:1193] Executed 52 in 5
+[EXECUTION][TIME:1193] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1193] Context switched to head of queue.
+[EXECUTION][TIME:1198] Executed 53 in 5
+[EXECUTION][TIME:1198] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1198] Context switched to head of queue.
+[EXECUTION][TIME:1203] Executed 54 in 5
+[EXECUTION][TIME:1203] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1203] Context switched to head of queue.
+[EXECUTION][TIME:1208] Executed 55 in 5
+[EXECUTION][TIME:1208] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1208] Context switched to head of queue.
+[EXECUTION][TIME:1213] Executed 56 in 5
+[EXECUTION][TIME:1213] Process has  75 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1213] Context switched to head of queue.
+[EXECUTION][TIME:1218] Executed 57 in 5
+[EXECUTION][TIME:1218] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1218] Context switched to head of queue.
+[EXECUTION][TIME:1223] Executed 59 in 5
+[EXECUTION][TIME:1223] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1223] Context switched to head of queue.
+[EXECUTION][TIME:1228] Executed 60 in 5
+[EXECUTION][TIME:1228] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1228] Context switched to head of queue.
+[EXECUTION][TIME:1233] Executed 61 in 5
+[EXECUTION][TIME:1233] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1233] Context switched to head of queue.
+[EXECUTION][TIME:1238] Executed 62 in 5
+[EXECUTION][TIME:1238] Process has  53 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1238] Context switched to head of queue.
+[EXECUTION][TIME:1243] Executed 63 in 5
+[EXECUTION][TIME:1243] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1243] Context switched to head of queue.
+[EXECUTION][TIME:1248] Executed 64 in 5
+[EXECUTION][TIME:1248] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1248] Context switched to head of queue.
+[EXECUTION][TIME:1253] Executed 65 in 5
+[EXECUTION][TIME:1253] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1253] Context switched to head of queue.
+[EXECUTION][TIME:1258] Executed 66 in 5
+[EXECUTION][TIME:1258] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1258] Context switched to head of queue.
+[EXECUTION][TIME:1263] Executed 67 in 5
+[EXECUTION][TIME:1263] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1263] Context switched to head of queue.
+[EXECUTION][TIME:1268] Executed 68 in 5
+[EXECUTION][TIME:1268] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1268] Context switched to head of queue.
+[EXECUTION][TIME:1273] Executed 69 in 5
+[EXECUTION][TIME:1273] Process has  77 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1273] Context switched to head of queue.
+[EXECUTION][TIME:1278] Executed 70 in 5
+[EXECUTION][TIME:1278] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1278] Context switched to head of queue.
+[EXECUTION][TIME:1283] Executed 71 in 5
+[EXECUTION][TIME:1283] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1283] Context switched to head of queue.
+[EXECUTION][TIME:1288] Executed 72 in 5
+[EXECUTION][TIME:1288] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1288] Context switched to head of queue.
+[EXECUTION][TIME:1293] Executed 73 in 5
+[EXECUTION][TIME:1293] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1293] Context switched to head of queue.
+[EXECUTION][TIME:1298] Executed 74 in 5
+[EXECUTION][TIME:1298] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1298] Context switched to head of queue.
+[EXECUTION][TIME:1303] Executed 76 in 5
+[EXECUTION][TIME:1303] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1303] Context switched to head of queue.
+[EXECUTION][TIME:1308] Executed 77 in 5
+[EXECUTION][TIME:1308] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1308] Context switched to head of queue.
+[EXECUTION][TIME:1313] Executed 78 in 5
+[EXECUTION][TIME:1313] Process has  65 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1313] Context switched to head of queue.
+[EXECUTION][TIME:1318] Executed 79 in 5
+[EXECUTION][TIME:1318] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1318] Context switched to head of queue.
+[EXECUTION][TIME:1323] Executed 80 in 5
+[EXECUTION][TIME:1323] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1323] Context switched to head of queue.
+[EXECUTION][TIME:1328] Executed 82 in 5
+[EXECUTION][TIME:1328] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1328] Context switched to head of queue.
+[EXECUTION][TIME:1333] Executed 83 in 5
+[EXECUTION][TIME:1333] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1333] Context switched to head of queue.
+[EXECUTION][TIME:1338] Executed 84 in 5
+[EXECUTION][TIME:1338] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1338] Context switched to head of queue.
+[EXECUTION][TIME:1343] Executed 85 in 5
+[EXECUTION][TIME:1343] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1343] Context switched to head of queue.
+[EXECUTION][TIME:1348] Executed 86 in 5
+[EXECUTION][TIME:1348] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1348] Context switched to head of queue.
+[EXECUTION][TIME:1353] Executed 87 in 5
+[EXECUTION][TIME:1353] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1353] Context switched to head of queue.
+[EXECUTION][TIME:1358] Executed 88 in 5
+[EXECUTION][TIME:1358] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1358] Context switched to head of queue.
+[EXECUTION][TIME:1363] Executed 89 in 5
+[EXECUTION][TIME:1363] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1363] Context switched to head of queue.
+[EXECUTION][TIME:1368] Executed 90 in 5
+[EXECUTION][TIME:1368] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1368] Context switched to head of queue.
+[EXECUTION][TIME:1373] Executed 91 in 5
+[EXECUTION][TIME:1373] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1373] Context switched to head of queue.
+[EXECUTION][TIME:1378] Executed 92 in 5
+[EXECUTION][TIME:1378] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1378] Context switched to head of queue.
+[EXECUTION][TIME:1383] Executed 93 in 5
+[EXECUTION][TIME:1383] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1383] Context switched to head of queue.
+[EXECUTION][TIME:1385] Executed 94 in 2
+[EXECUTION][TIME:1385] Completed following process, removed from queue.
+[EXECUTION][TIME:1390] Executed 95 in 5
+[EXECUTION][TIME:1390] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1390] Context switched to head of queue.
+[EXECUTION][TIME:1395] Executed 96 in 5
+[EXECUTION][TIME:1395] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1395] Context switched to head of queue.
+[EXECUTION][TIME:1400] Executed 97 in 5
+[EXECUTION][TIME:1400] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1400] Context switched to head of queue.
+[EXECUTION][TIME:1405] Executed 98 in 5
+[EXECUTION][TIME:1405] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1405] Context switched to head of queue.
+[EXECUTION][TIME:1410] Executed 99 in 5
+[EXECUTION][TIME:1410] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1410] Context switched to head of queue.
+[EXECUTION][TIME:1415] Executed 1 in 5
+[EXECUTION][TIME:1415] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1415] Context switched to head of queue.
+[EXECUTION][TIME:1420] Executed 2 in 5
+[EXECUTION][TIME:1420] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1420] Context switched to head of queue.
+[EXECUTION][TIME:1425] Executed 3 in 5
+[EXECUTION][TIME:1425] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1425] Context switched to head of queue.
+[EXECUTION][TIME:1430] Executed 4 in 5
+[EXECUTION][TIME:1430] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1430] Context switched to head of queue.
+[EXECUTION][TIME:1435] Executed 5 in 5
+[EXECUTION][TIME:1435] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1435] Context switched to head of queue.
+[EXECUTION][TIME:1440] Executed 6 in 5
+[EXECUTION][TIME:1440] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1440] Context switched to head of queue.
+[EXECUTION][TIME:1445] Executed 7 in 5
+[EXECUTION][TIME:1445] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1445] Context switched to head of queue.
+[EXECUTION][TIME:1450] Executed 8 in 5
+[EXECUTION][TIME:1450] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1450] Context switched to head of queue.
+[EXECUTION][TIME:1455] Executed 9 in 5
+[EXECUTION][TIME:1455] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1455] Context switched to head of queue.
+[EXECUTION][TIME:1460] Executed 10 in 5
+[EXECUTION][TIME:1460] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1460] Context switched to head of queue.
+[EXECUTION][TIME:1461] Executed 11 in 1
+[EXECUTION][TIME:1461] Completed following process, removed from queue.
+[EXECUTION][TIME:1466] Executed 12 in 5
+[EXECUTION][TIME:1466] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1466] Context switched to head of queue.
+[EXECUTION][TIME:1471] Executed 13 in 5
+[EXECUTION][TIME:1471] Process has  56 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1471] Context switched to head of queue.
+[EXECUTION][TIME:1476] Executed 14 in 5
+[EXECUTION][TIME:1476] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1476] Context switched to head of queue.
+[EXECUTION][TIME:1481] Executed 15 in 5
+[EXECUTION][TIME:1481] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1481] Context switched to head of queue.
+[EXECUTION][TIME:1486] Executed 16 in 5
+[EXECUTION][TIME:1486] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1486] Context switched to head of queue.
+[EXECUTION][TIME:1491] Executed 17 in 5
+[EXECUTION][TIME:1491] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1491] Context switched to head of queue.
+[EXECUTION][TIME:1496] Executed 18 in 5
+[EXECUTION][TIME:1496] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1496] Context switched to head of queue.
+[EXECUTION][TIME:1501] Executed 19 in 5
+[EXECUTION][TIME:1501] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1501] Context switched to head of queue.
+[EXECUTION][TIME:1506] Executed 20 in 5
+[EXECUTION][TIME:1506] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1506] Context switched to head of queue.
+[EXECUTION][TIME:1511] Executed 22 in 5
+[EXECUTION][TIME:1511] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1511] Context switched to head of queue.
+[EXECUTION][TIME:1516] Executed 23 in 5
+[EXECUTION][TIME:1516] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1516] Context switched to head of queue.
+[EXECUTION][TIME:1521] Executed 24 in 5
+[EXECUTION][TIME:1521] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1521] Context switched to head of queue.
+[EXECUTION][TIME:1526] Executed 25 in 5
+[EXECUTION][TIME:1526] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1526] Context switched to head of queue.
+[EXECUTION][TIME:1531] Executed 26 in 5
+[EXECUTION][TIME:1531] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1531] Context switched to head of queue.
+[EXECUTION][TIME:1536] Executed 28 in 5
+[EXECUTION][TIME:1536] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1536] Context switched to head of queue.
+[EXECUTION][TIME:1541] Executed 29 in 5
+[EXECUTION][TIME:1541] Process has  76 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1541] Context switched to head of queue.
+[EXECUTION][TIME:1546] Executed 31 in 5
+[EXECUTION][TIME:1546] Process has  59 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1546] Context switched to head of queue.
+[EXECUTION][TIME:1551] Executed 32 in 5
+[EXECUTION][TIME:1551] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1551] Context switched to head of queue.
+[EXECUTION][TIME:1556] Executed 33 in 5
+[EXECUTION][TIME:1556] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1556] Context switched to head of queue.
+[EXECUTION][TIME:1561] Executed 34 in 5
+[EXECUTION][TIME:1561] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1561] Context switched to head of queue.
+[EXECUTION][TIME:1566] Executed 35 in 5
+[EXECUTION][TIME:1566] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1566] Context switched to head of queue.
+[EXECUTION][TIME:1571] Executed 37 in 5
+[EXECUTION][TIME:1571] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1571] Context switched to head of queue.
+[EXECUTION][TIME:1576] Executed 38 in 5
+[EXECUTION][TIME:1576] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1576] Context switched to head of queue.
+[EXECUTION][TIME:1581] Executed 40 in 5
+[EXECUTION][TIME:1581] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1581] Context switched to head of queue.
+[EXECUTION][TIME:1586] Executed 41 in 5
+[EXECUTION][TIME:1586] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1586] Context switched to head of queue.
+[EXECUTION][TIME:1591] Executed 42 in 5
+[EXECUTION][TIME:1591] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1591] Context switched to head of queue.
+[EXECUTION][TIME:1596] Executed 43 in 5
+[EXECUTION][TIME:1596] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1596] Context switched to head of queue.
+[EXECUTION][TIME:1601] Executed 44 in 5
+[EXECUTION][TIME:1601] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1601] Context switched to head of queue.
+[EXECUTION][TIME:1606] Executed 45 in 5
+[EXECUTION][TIME:1606] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1606] Context switched to head of queue.
+[EXECUTION][TIME:1611] Executed 46 in 5
+[EXECUTION][TIME:1611] Process has  80 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1611] Context switched to head of queue.
+[EXECUTION][TIME:1616] Executed 47 in 5
+[EXECUTION][TIME:1616] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1616] Context switched to head of queue.
+[EXECUTION][TIME:1621] Executed 48 in 5
+[EXECUTION][TIME:1621] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1621] Context switched to head of queue.
+[EXECUTION][TIME:1626] Executed 49 in 5
+[EXECUTION][TIME:1626] Process has  63 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1626] Context switched to head of queue.
+[EXECUTION][TIME:1631] Executed 50 in 5
+[EXECUTION][TIME:1631] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1631] Context switched to head of queue.
+[EXECUTION][TIME:1636] Executed 52 in 5
+[EXECUTION][TIME:1636] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1636] Context switched to head of queue.
+[EXECUTION][TIME:1641] Executed 53 in 5
+[EXECUTION][TIME:1641] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1641] Context switched to head of queue.
+[EXECUTION][TIME:1646] Executed 54 in 5
+[EXECUTION][TIME:1646] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1646] Context switched to head of queue.
+[EXECUTION][TIME:1651] Executed 55 in 5
+[EXECUTION][TIME:1651] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1651] Context switched to head of queue.
+[EXECUTION][TIME:1656] Executed 56 in 5
+[EXECUTION][TIME:1656] Process has  70 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1656] Context switched to head of queue.
+[EXECUTION][TIME:1661] Executed 57 in 5
+[EXECUTION][TIME:1661] Completed following process, removed from queue.
+[EXECUTION][TIME:1666] Executed 59 in 5
+[EXECUTION][TIME:1666] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1666] Context switched to head of queue.
+[EXECUTION][TIME:1671] Executed 60 in 5
+[EXECUTION][TIME:1671] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1671] Context switched to head of queue.
+[EXECUTION][TIME:1676] Executed 61 in 5
+[EXECUTION][TIME:1676] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1676] Context switched to head of queue.
+[EXECUTION][TIME:1681] Executed 62 in 5
+[EXECUTION][TIME:1681] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1681] Context switched to head of queue.
+[EXECUTION][TIME:1686] Executed 63 in 5
+[EXECUTION][TIME:1686] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1686] Context switched to head of queue.
+[EXECUTION][TIME:1691] Executed 64 in 5
+[EXECUTION][TIME:1691] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1691] Context switched to head of queue.
+[EXECUTION][TIME:1696] Executed 65 in 5
+[EXECUTION][TIME:1696] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1696] Context switched to head of queue.
+[EXECUTION][TIME:1701] Executed 66 in 5
+[EXECUTION][TIME:1701] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1701] Context switched to head of queue.
+[EXECUTION][TIME:1706] Executed 67 in 5
+[EXECUTION][TIME:1706] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1706] Context switched to head of queue.
+[EXECUTION][TIME:1711] Executed 68 in 5
+[EXECUTION][TIME:1711] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1711] Context switched to head of queue.
+[EXECUTION][TIME:1716] Executed 69 in 5
+[EXECUTION][TIME:1716] Process has  72 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1716] Context switched to head of queue.
+[EXECUTION][TIME:1721] Executed 70 in 5
+[EXECUTION][TIME:1721] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1721] Context switched to head of queue.
+[EXECUTION][TIME:1726] Executed 71 in 5
+[EXECUTION][TIME:1726] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1726] Context switched to head of queue.
+[EXECUTION][TIME:1731] Executed 72 in 5
+[EXECUTION][TIME:1731] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1731] Context switched to head of queue.
+[EXECUTION][TIME:1736] Executed 73 in 5
+[EXECUTION][TIME:1736] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1736] Context switched to head of queue.
+[EXECUTION][TIME:1741] Executed 74 in 5
+[EXECUTION][TIME:1741] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1741] Context switched to head of queue.
+[EXECUTION][TIME:1746] Executed 76 in 5
+[EXECUTION][TIME:1746] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1746] Context switched to head of queue.
+[EXECUTION][TIME:1751] Executed 77 in 5
+[EXECUTION][TIME:1751] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1751] Context switched to head of queue.
+[EXECUTION][TIME:1756] Executed 78 in 5
+[EXECUTION][TIME:1756] Process has  60 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1756] Context switched to head of queue.
+[EXECUTION][TIME:1761] Executed 79 in 5
+[EXECUTION][TIME:1761] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1761] Context switched to head of queue.
+[EXECUTION][TIME:1766] Executed 80 in 5
+[EXECUTION][TIME:1766] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1766] Context switched to head of queue.
+[EXECUTION][TIME:1771] Executed 82 in 5
+[EXECUTION][TIME:1771] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1771] Context switched to head of queue.
+[EXECUTION][TIME:1776] Executed 83 in 5
+[EXECUTION][TIME:1776] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1776] Context switched to head of queue.
+[EXECUTION][TIME:1781] Executed 84 in 5
+[EXECUTION][TIME:1781] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1781] Context switched to head of queue.
+[EXECUTION][TIME:1786] Executed 85 in 5
+[EXECUTION][TIME:1786] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1786] Context switched to head of queue.
+[EXECUTION][TIME:1791] Executed 86 in 5
+[EXECUTION][TIME:1791] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1791] Context switched to head of queue.
+[EXECUTION][TIME:1796] Executed 87 in 5
+[EXECUTION][TIME:1796] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1796] Context switched to head of queue.
+[EXECUTION][TIME:1801] Executed 88 in 5
+[EXECUTION][TIME:1801] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1801] Context switched to head of queue.
+[EXECUTION][TIME:1806] Executed 89 in 5
+[EXECUTION][TIME:1806] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1806] Context switched to head of queue.
+[EXECUTION][TIME:1811] Executed 90 in 5
+[EXECUTION][TIME:1811] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1811] Context switched to head of queue.
+[EXECUTION][TIME:1816] Executed 91 in 5
+[EXECUTION][TIME:1816] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1816] Context switched to head of queue.
+[EXECUTION][TIME:1821] Executed 92 in 5
+[EXECUTION][TIME:1821] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1821] Context switched to head of queue.
+[EXECUTION][TIME:1826] Executed 93 in 5
+[EXECUTION][TIME:1826] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1826] Context switched to head of queue.
+[EXECUTION][TIME:1831] Executed 95 in 5
+[EXECUTION][TIME:1831] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1831] Context switched to head of queue.
+[EXECUTION][TIME:1836] Executed 96 in 5
+[EXECUTION][TIME:1836] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1836] Context switched to head of queue.
+[EXECUTION][TIME:1841] Executed 97 in 5
+[EXECUTION][TIME:1841] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1841] Context switched to head of queue.
+[EXECUTION][TIME:1846] Executed 98 in 5
+[EXECUTION][TIME:1846] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1846] Context switched to head of queue.
+[EXECUTION][TIME:1851] Executed 99 in 5
+[EXECUTION][TIME:1851] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1851] Context switched to head of queue.
+[EXECUTION][TIME:1856] Executed 1 in 5
+[EXECUTION][TIME:1856] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1856] Context switched to head of queue.
+[EXECUTION][TIME:1860] Executed 2 in 4
+[EXECUTION][TIME:1860] Completed following process, removed from queue.
+[EXECUTION][TIME:1865] Executed 3 in 5
+[EXECUTION][TIME:1865] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1865] Context switched to head of queue.
+[EXECUTION][TIME:1870] Executed 4 in 5
+[EXECUTION][TIME:1870] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1870] Context switched to head of queue.
+[EXECUTION][TIME:1875] Executed 5 in 5
+[EXECUTION][TIME:1875] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1875] Context switched to head of queue.
+[EXECUTION][TIME:1880] Executed 6 in 5
+[EXECUTION][TIME:1880] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1880] Context switched to head of queue.
+[EXECUTION][TIME:1885] Executed 7 in 5
+[EXECUTION][TIME:1885] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1885] Context switched to head of queue.
+[EXECUTION][TIME:1890] Executed 8 in 5
+[EXECUTION][TIME:1890] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1890] Context switched to head of queue.
+[EXECUTION][TIME:1895] Executed 9 in 5
+[EXECUTION][TIME:1895] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1895] Context switched to head of queue.
+[EXECUTION][TIME:1900] Executed 10 in 5
+[EXECUTION][TIME:1900] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1900] Context switched to head of queue.
+[EXECUTION][TIME:1905] Executed 12 in 5
+[EXECUTION][TIME:1905] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1905] Context switched to head of queue.
+[EXECUTION][TIME:1910] Executed 13 in 5
+[EXECUTION][TIME:1910] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1910] Context switched to head of queue.
+[EXECUTION][TIME:1915] Executed 14 in 5
+[EXECUTION][TIME:1915] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1915] Context switched to head of queue.
+[EXECUTION][TIME:1920] Executed 15 in 5
+[EXECUTION][TIME:1920] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1920] Context switched to head of queue.
+[EXECUTION][TIME:1925] Executed 16 in 5
+[EXECUTION][TIME:1925] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1925] Context switched to head of queue.
+[EXECUTION][TIME:1930] Executed 17 in 5
+[EXECUTION][TIME:1930] Completed following process, removed from queue.
+[EXECUTION][TIME:1935] Executed 18 in 5
+[EXECUTION][TIME:1935] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1935] Context switched to head of queue.
+[EXECUTION][TIME:1940] Executed 19 in 5
+[EXECUTION][TIME:1940] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1940] Context switched to head of queue.
+[EXECUTION][TIME:1945] Executed 20 in 5
+[EXECUTION][TIME:1945] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1945] Context switched to head of queue.
+[EXECUTION][TIME:1950] Executed 22 in 5
+[EXECUTION][TIME:1950] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1950] Context switched to head of queue.
+[EXECUTION][TIME:1955] Executed 23 in 5
+[EXECUTION][TIME:1955] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1955] Context switched to head of queue.
+[EXECUTION][TIME:1960] Executed 24 in 5
+[EXECUTION][TIME:1960] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1960] Context switched to head of queue.
+[EXECUTION][TIME:1965] Executed 25 in 5
+[EXECUTION][TIME:1965] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1965] Context switched to head of queue.
+[EXECUTION][TIME:1970] Executed 26 in 5
+[EXECUTION][TIME:1970] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1970] Context switched to head of queue.
+[EXECUTION][TIME:1973] Executed 28 in 3
+[EXECUTION][TIME:1973] Completed following process, removed from queue.
+[EXECUTION][TIME:1978] Executed 29 in 5
+[EXECUTION][TIME:1978] Process has  71 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1978] Context switched to head of queue.
+[EXECUTION][TIME:1983] Executed 31 in 5
+[EXECUTION][TIME:1983] Process has  54 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1983] Context switched to head of queue.
+[EXECUTION][TIME:1988] Executed 32 in 5
+[EXECUTION][TIME:1988] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1988] Context switched to head of queue.
+[EXECUTION][TIME:1993] Executed 33 in 5
+[EXECUTION][TIME:1993] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1993] Context switched to head of queue.
+[EXECUTION][TIME:1998] Executed 34 in 5
+[EXECUTION][TIME:1998] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1998] Context switched to head of queue.
+[EXECUTION][TIME:2003] Executed 35 in 5
+[EXECUTION][TIME:2003] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2003] Context switched to head of queue.
+[EXECUTION][TIME:2008] Executed 37 in 5
+[EXECUTION][TIME:2008] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2008] Context switched to head of queue.
+[EXECUTION][TIME:2013] Executed 38 in 5
+[EXECUTION][TIME:2013] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2013] Context switched to head of queue.
+[EXECUTION][TIME:2018] Executed 40 in 5
+[EXECUTION][TIME:2018] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2018] Context switched to head of queue.
+[EXECUTION][TIME:2023] Executed 41 in 5
+[EXECUTION][TIME:2023] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2023] Context switched to head of queue.
+[EXECUTION][TIME:2028] Executed 42 in 5
+[EXECUTION][TIME:2028] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2028] Context switched to head of queue.
+[EXECUTION][TIME:2033] Executed 43 in 5
+[EXECUTION][TIME:2033] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2033] Context switched to head of queue.
+[EXECUTION][TIME:2038] Executed 44 in 5
+[EXECUTION][TIME:2038] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2038] Context switched to head of queue.
+[EXECUTION][TIME:2043] Executed 45 in 5
+[EXECUTION][TIME:2043] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2043] Context switched to head of queue.
+[EXECUTION][TIME:2048] Executed 46 in 5
+[EXECUTION][TIME:2048] Process has  75 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2048] Context switched to head of queue.
+[EXECUTION][TIME:2053] Executed 47 in 5
+[EXECUTION][TIME:2053] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2053] Context switched to head of queue.
+[EXECUTION][TIME:2058] Executed 48 in 5
+[EXECUTION][TIME:2058] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2058] Context switched to head of queue.
+[EXECUTION][TIME:2063] Executed 49 in 5
+[EXECUTION][TIME:2063] Process has  58 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2063] Context switched to head of queue.
+[EXECUTION][TIME:2068] Executed 50 in 5
+[EXECUTION][TIME:2068] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2068] Context switched to head of queue.
+[EXECUTION][TIME:2073] Executed 52 in 5
+[EXECUTION][TIME:2073] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2073] Context switched to head of queue.
+[EXECUTION][TIME:2078] Executed 53 in 5
+[EXECUTION][TIME:2078] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2078] Context switched to head of queue.
+[EXECUTION][TIME:2083] Executed 54 in 5
+[EXECUTION][TIME:2083] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2083] Context switched to head of queue.
+[EXECUTION][TIME:2088] Executed 55 in 5
+[EXECUTION][TIME:2088] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2088] Context switched to head of queue.
+[EXECUTION][TIME:2093] Executed 56 in 5
+[EXECUTION][TIME:2093] Process has  65 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2093] Context switched to head of queue.
+[EXECUTION][TIME:2098] Executed 59 in 5
+[EXECUTION][TIME:2098] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2098] Context switched to head of queue.
+[EXECUTION][TIME:2103] Executed 60 in 5
+[EXECUTION][TIME:2103] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2103] Context switched to head of queue.
+[EXECUTION][TIME:2108] Executed 61 in 5
+[EXECUTION][TIME:2108] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2108] Context switched to head of queue.
+[EXECUTION][TIME:2113] Executed 62 in 5
+[EXECUTION][TIME:2113] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2113] Context switched to head of queue.
+[EXECUTION][TIME:2118] Executed 63 in 5
+[EXECUTION][TIME:2118] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2118] Context switched to head of queue.
+[EXECUTION][TIME:2123] Executed 64 in 5
+[EXECUTION][TIME:2123] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2123] Context switched to head of queue.
+[EXECUTION][TIME:2128] Executed 65 in 5
+[EXECUTION][TIME:2128] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2128] Context switched to head of queue.
+[EXECUTION][TIME:2133] Executed 66 in 5
+[EXECUTION][TIME:2133] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2133] Context switched to head of queue.
+[EXECUTION][TIME:2138] Executed 67 in 5
+[EXECUTION][TIME:2138] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2138] Context switched to head of queue.
+[EXECUTION][TIME:2143] Executed 68 in 5
+[EXECUTION][TIME:2143] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2143] Context switched to head of queue.
+[EXECUTION][TIME:2148] Executed 69 in 5
+[EXECUTION][TIME:2148] Process has  67 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2148] Context switched to head of queue.
+[EXECUTION][TIME:2153] Executed 70 in 5
+[EXECUTION][TIME:2153] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2153] Context switched to head of queue.
+[EXECUTION][TIME:2158] Executed 71 in 5
+[EXECUTION][TIME:2158] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2158] Context switched to head of queue.
+[EXECUTION][TIME:2163] Executed 72 in 5
+[EXECUTION][TIME:2163] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2163] Context switched to head of queue.
+[EXECUTION][TIME:2168] Executed 73 in 5
+[EXECUTION][TIME:2168] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2168] Context switched to head of queue.
+[EXECUTION][TIME:2173] Executed 74 in 5
+[EXECUTION][TIME:2173] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2173] Context switched to head of queue.
+[EXECUTION][TIME:2178] Executed 76 in 5
+[EXECUTION][TIME:2178] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2178] Context switched to head of queue.
+[EXECUTION][TIME:2183] Executed 77 in 5
+[EXECUTION][TIME:2183] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2183] Context switched to head of queue.
+[EXECUTION][TIME:2188] Executed 78 in 5
+[EXECUTION][TIME:2188] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2188] Context switched to head of queue.
+[EXECUTION][TIME:2193] Executed 79 in 5
+[EXECUTION][TIME:2193] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2193] Context switched to head of queue.
+[EXECUTION][TIME:2198] Executed 80 in 5
+[EXECUTION][TIME:2198] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2198] Context switched to head of queue.
+[EXECUTION][TIME:2203] Executed 82 in 5
+[EXECUTION][TIME:2203] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2203] Context switched to head of queue.
+[EXECUTION][TIME:2208] Executed 83 in 5
+[EXECUTION][TIME:2208] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2208] Context switched to head of queue.
+[EXECUTION][TIME:2213] Executed 84 in 5
+[EXECUTION][TIME:2213] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2213] Context switched to head of queue.
+[EXECUTION][TIME:2218] Executed 85 in 5
+[EXECUTION][TIME:2218] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2218] Context switched to head of queue.
+[EXECUTION][TIME:2223] Executed 86 in 5
+[EXECUTION][TIME:2223] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2223] Context switched to head of queue.
+[EXECUTION][TIME:2228] Executed 87 in 5
+[EXECUTION][TIME:2228] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2228] Context switched to head of queue.
+[EXECUTION][TIME:2233] Executed 88 in 5
+[EXECUTION][TIME:2233] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2233] Context switched to head of queue.
+[EXECUTION][TIME:2238] Executed 89 in 5
+[EXECUTION][TIME:2238] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2238] Context switched to head of queue.
+[EXECUTION][TIME:2243] Executed 90 in 5
+[EXECUTION][TIME:2243] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2243] Context switched to head of queue.
+[EXECUTION][TIME:2248] Executed 91 in 5
+[EXECUTION][TIME:2248] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2248] Context switched to head of queue.
+[EXECUTION][TIME:2253] Executed 92 in 5
+[EXECUTION][TIME:2253] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2253] Context switched to head of queue.
+[EXECUTION][TIME:2258] Executed 93 in 5
+[EXECUTION][TIME:2258] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2258] Context switched to head of queue.
+[EXECUTION][TIME:2263] Executed 95 in 5
+[EXECUTION][TIME:2263] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2263] Context switched to head of queue.
+[EXECUTION][TIME:2268] Executed 96 in 5
+[EXECUTION][TIME:2268] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2268] Context switched to head of queue.
+[EXECUTION][TIME:2273] Executed 97 in 5
+[EXECUTION][TIME:2273] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2273] Context switched to head of queue.
+[EXECUTION][TIME:2278] Executed 98 in 5
+[EXECUTION][TIME:2278] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2278] Context switched to head of queue.
+[EXECUTION][TIME:2283] Executed 99 in 5
+[EXECUTION][TIME:2283] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2283] Context switched to head of queue.
+[EXECUTION][TIME:2288] Executed 1 in 5
+[EXECUTION][TIME:2288] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2288] Context switched to head of queue.
+[EXECUTION][TIME:2293] Executed 3 in 5
+[EXECUTION][TIME:2293] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2293] Context switched to head of queue.
+[EXECUTION][TIME:2298] Executed 4 in 5
+[EXECUTION][TIME:2298] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2298] Context switched to head of queue.
+[EXECUTION][TIME:2303] Executed 5 in 5
+[EXECUTION][TIME:2303] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2303] Context switched to head of queue.
+[EXECUTION][TIME:2308] Executed 6 in 5
+[EXECUTION][TIME:2308] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2308] Context switched to head of queue.
+[EXECUTION][TIME:2313] Executed 7 in 5
+[EXECUTION][TIME:2313] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2313] Context switched to head of queue.
+[EXECUTION][TIME:2318] Executed 8 in 5
+[EXECUTION][TIME:2318] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2318] Context switched to head of queue.
+[EXECUTION][TIME:2323] Executed 9 in 5
+[EXECUTION][TIME:2323] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2323] Context switched to head of queue.
+[EXECUTION][TIME:2328] Executed 10 in 5
+[EXECUTION][TIME:2328] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2328] Context switched to head of queue.
+[EXECUTION][TIME:2333] Executed 12 in 5
+[EXECUTION][TIME:2333] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2333] Context switched to head of queue.
+[EXECUTION][TIME:2338] Executed 13 in 5
+[EXECUTION][TIME:2338] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2338] Context switched to head of queue.
+[EXECUTION][TIME:2343] Executed 14 in 5
+[EXECUTION][TIME:2343] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2343] Context switched to head of queue.
+[EXECUTION][TIME:2348] Executed 15 in 5
+[EXECUTION][TIME:2348] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2348] Context switched to head of queue.
+[EXECUTION][TIME:2353] Executed 16 in 5
+[EXECUTION][TIME:2353] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2353] Context switched to head of queue.
+[EXECUTION][TIME:2358] Executed 18 in 5
+[EXECUTION][TIME:2358] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2358] Context switched to head of queue.
+[EXECUTION][TIME:2363] Executed 19 in 5
+[EXECUTION][TIME:2363] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2363] Context switched to head of queue.
+[EXECUTION][TIME:2368] Executed 20 in 5
+[EXECUTION][TIME:2368] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2368] Context switched to head of queue.
+[EXECUTION][TIME:2373] Executed 22 in 5
+[EXECUTION][TIME:2373] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2373] Context switched to head of queue.
+[EXECUTION][TIME:2378] Executed 23 in 5
+[EXECUTION][TIME:2378] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2378] Context switched to head of queue.
+[EXECUTION][TIME:2383] Executed 24 in 5
+[EXECUTION][TIME:2383] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2383] Context switched to head of queue.
+[EXECUTION][TIME:2388] Executed 25 in 5
+[EXECUTION][TIME:2388] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2388] Context switched to head of queue.
+[EXECUTION][TIME:2393] Executed 26 in 5
+[EXECUTION][TIME:2393] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2393] Context switched to head of queue.
+[EXECUTION][TIME:2398] Executed 29 in 5
+[EXECUTION][TIME:2398] Process has  66 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2398] Context switched to head of queue.
+[EXECUTION][TIME:2403] Executed 31 in 5
+[EXECUTION][TIME:2403] Process has  49 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2403] Context switched to head of queue.
+[EXECUTION][TIME:2408] Executed 32 in 5
+[EXECUTION][TIME:2408] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2408] Context switched to head of queue.
+[EXECUTION][TIME:2413] Executed 33 in 5
+[EXECUTION][TIME:2413] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2413] Context switched to head of queue.
+[EXECUTION][TIME:2418] Executed 34 in 5
+[EXECUTION][TIME:2418] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2418] Context switched to head of queue.
+[EXECUTION][TIME:2423] Executed 35 in 5
+[EXECUTION][TIME:2423] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2423] Context switched to head of queue.
+[EXECUTION][TIME:2428] Executed 37 in 5
+[EXECUTION][TIME:2428] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2428] Context switched to head of queue.
+[EXECUTION][TIME:2433] Executed 38 in 5
+[EXECUTION][TIME:2433] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2433] Context switched to head of queue.
+[EXECUTION][TIME:2438] Executed 40 in 5
+[EXECUTION][TIME:2438] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2438] Context switched to head of queue.
+[EXECUTION][TIME:2443] Executed 41 in 5
+[EXECUTION][TIME:2443] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2443] Context switched to head of queue.
+[EXECUTION][TIME:2448] Executed 42 in 5
+[EXECUTION][TIME:2448] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2448] Context switched to head of queue.
+[EXECUTION][TIME:2453] Executed 43 in 5
+[EXECUTION][TIME:2453] Completed following process, removed from queue.
+[EXECUTION][TIME:2458] Executed 44 in 5
+[EXECUTION][TIME:2458] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2458] Context switched to head of queue.
+[EXECUTION][TIME:2463] Executed 45 in 5
+[EXECUTION][TIME:2463] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2463] Context switched to head of queue.
+[EXECUTION][TIME:2468] Executed 46 in 5
+[EXECUTION][TIME:2468] Process has  70 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2468] Context switched to head of queue.
+[EXECUTION][TIME:2473] Executed 47 in 5
+[EXECUTION][TIME:2473] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2473] Context switched to head of queue.
+[EXECUTION][TIME:2478] Executed 48 in 5
+[EXECUTION][TIME:2478] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2478] Context switched to head of queue.
+[EXECUTION][TIME:2483] Executed 49 in 5
+[EXECUTION][TIME:2483] Process has  53 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2483] Context switched to head of queue.
+[EXECUTION][TIME:2488] Executed 50 in 5
+[EXECUTION][TIME:2488] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2488] Context switched to head of queue.
+[EXECUTION][TIME:2493] Executed 52 in 5
+[EXECUTION][TIME:2493] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2493] Context switched to head of queue.
+[EXECUTION][TIME:2498] Executed 53 in 5
+[EXECUTION][TIME:2498] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2498] Context switched to head of queue.
+[EXECUTION][TIME:2503] Executed 54 in 5
+[EXECUTION][TIME:2503] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2503] Context switched to head of queue.
+[EXECUTION][TIME:2506] Executed 55 in 3
+[EXECUTION][TIME:2506] Completed following process, removed from queue.
+[EXECUTION][TIME:2511] Executed 56 in 5
+[EXECUTION][TIME:2511] Process has  60 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2511] Context switched to head of queue.
+[EXECUTION][TIME:2516] Executed 59 in 5
+[EXECUTION][TIME:2516] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2516] Context switched to head of queue.
+[EXECUTION][TIME:2521] Executed 60 in 5
+[EXECUTION][TIME:2521] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2521] Context switched to head of queue.
+[EXECUTION][TIME:2526] Executed 61 in 5
+[EXECUTION][TIME:2526] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2526] Context switched to head of queue.
+[EXECUTION][TIME:2531] Executed 62 in 5
+[EXECUTION][TIME:2531] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2531] Context switched to head of queue.
+[EXECUTION][TIME:2536] Executed 63 in 5
+[EXECUTION][TIME:2536] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2536] Context switched to head of queue.
+[EXECUTION][TIME:2541] Executed 64 in 5
+[EXECUTION][TIME:2541] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2541] Context switched to head of queue.
+[EXECUTION][TIME:2546] Executed 65 in 5
+[EXECUTION][TIME:2546] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2546] Context switched to head of queue.
+[EXECUTION][TIME:2551] Executed 66 in 5
+[EXECUTION][TIME:2551] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2551] Context switched to head of queue.
+[EXECUTION][TIME:2556] Executed 67 in 5
+[EXECUTION][TIME:2556] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2556] Context switched to head of queue.
+[EXECUTION][TIME:2561] Executed 68 in 5
+[EXECUTION][TIME:2561] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2561] Context switched to head of queue.
+[EXECUTION][TIME:2566] Executed 69 in 5
+[EXECUTION][TIME:2566] Process has  62 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2566] Context switched to head of queue.
+[EXECUTION][TIME:2571] Executed 70 in 5
+[EXECUTION][TIME:2571] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2571] Context switched to head of queue.
+[EXECUTION][TIME:2576] Executed 71 in 5
+[EXECUTION][TIME:2576] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2576] Context switched to head of queue.
+[EXECUTION][TIME:2581] Executed 72 in 5
+[EXECUTION][TIME:2581] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2581] Context switched to head of queue.
+[EXECUTION][TIME:2586] Executed 73 in 5
+[EXECUTION][TIME:2586] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2586] Context switched to head of queue.
+[EXECUTION][TIME:2591] Executed 74 in 5
+[EXECUTION][TIME:2591] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2591] Context switched to head of queue.
+[EXECUTION][TIME:2596] Executed 76 in 5
+[EXECUTION][TIME:2596] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2596] Context switched to head of queue.
+[EXECUTION][TIME:2601] Executed 77 in 5
+[EXECUTION][TIME:2601] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2601] Context switched to head of queue.
+[EXECUTION][TIME:2606] Executed 78 in 5
+[EXECUTION][TIME:2606] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2606] Context switched to head of queue.
+[EXECUTION][TIME:2611] Executed 79 in 5
+[EXECUTION][TIME:2611] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2611] Context switched to head of queue.
+[EXECUTION][TIME:2616] Executed 80 in 5
+[EXECUTION][TIME:2616] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2616] Context switched to head of queue.
+[EXECUTION][TIME:2621] Executed 82 in 5
+[EXECUTION][TIME:2621] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2621] Context switched to head of queue.
+[EXECUTION][TIME:2626] Executed 83 in 5
+[EXECUTION][TIME:2626] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2626] Context switched to head of queue.
+[EXECUTION][TIME:2631] Executed 84 in 5
+[EXECUTION][TIME:2631] Completed following process, removed from queue.
+[EXECUTION][TIME:2636] Executed 85 in 5
+[EXECUTION][TIME:2636] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2636] Context switched to head of queue.
+[EXECUTION][TIME:2641] Executed 86 in 5
+[EXECUTION][TIME:2641] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2641] Context switched to head of queue.
+[EXECUTION][TIME:2646] Executed 87 in 5
+[EXECUTION][TIME:2646] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2646] Context switched to head of queue.
+[EXECUTION][TIME:2651] Executed 88 in 5
+[EXECUTION][TIME:2651] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2651] Context switched to head of queue.
+[EXECUTION][TIME:2656] Executed 89 in 5
+[EXECUTION][TIME:2656] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2656] Context switched to head of queue.
+[EXECUTION][TIME:2661] Executed 90 in 5
+[EXECUTION][TIME:2661] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2661] Context switched to head of queue.
+[EXECUTION][TIME:2666] Executed 91 in 5
+[EXECUTION][TIME:2666] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2666] Context switched to head of queue.
+[EXECUTION][TIME:2671] Executed 92 in 5
+[EXECUTION][TIME:2671] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2671] Context switched to head of queue.
+[EXECUTION][TIME:2676] Executed 93 in 5
+[EXECUTION][TIME:2676] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2676] Context switched to head of queue.
+[EXECUTION][TIME:2681] Executed 95 in 5
+[EXECUTION][TIME:2681] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2681] Context switched to head of queue.
+[EXECUTION][TIME:2686] Executed 96 in 5
+[EXECUTION][TIME:2686] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2686] Context switched to head of queue.
+[EXECUTION][TIME:2691] Executed 97 in 5
+[EXECUTION][TIME:2691] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2691] Context switched to head of queue.
+[EXECUTION][TIME:2696] Executed 98 in 5
+[EXECUTION][TIME:2696] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2696] Context switched to head of queue.
+[EXECUTION][TIME:2698] Executed 99 in 2
+[EXECUTION][TIME:2698] Completed following process, removed from queue.
+[EXECUTION][TIME:2703] Executed 1 in 5
+[EXECUTION][TIME:2703] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2703] Context switched to head of queue.
+[EXECUTION][TIME:2708] Executed 3 in 5
+[EXECUTION][TIME:2708] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2708] Context switched to head of queue.
+[EXECUTION][TIME:2713] Executed 4 in 5
+[EXECUTION][TIME:2713] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2713] Context switched to head of queue.
+[EXECUTION][TIME:2718] Executed 5 in 5
+[EXECUTION][TIME:2718] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2718] Context switched to head of queue.
+[EXECUTION][TIME:2723] Executed 6 in 5
+[EXECUTION][TIME:2723] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2723] Context switched to head of queue.
+[EXECUTION][TIME:2728] Executed 7 in 5
+[EXECUTION][TIME:2728] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2728] Context switched to head of queue.
+[EXECUTION][TIME:2733] Executed 8 in 5
+[EXECUTION][TIME:2733] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2733] Context switched to head of queue.
+[EXECUTION][TIME:2738] Executed 9 in 5
+[EXECUTION][TIME:2738] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2738] Context switched to head of queue.
+[EXECUTION][TIME:2743] Executed 10 in 5
+[EXECUTION][TIME:2743] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2743] Context switched to head of queue.
+[EXECUTION][TIME:2748] Executed 12 in 5
+[EXECUTION][TIME:2748] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2748] Context switched to head of queue.
+[EXECUTION][TIME:2753] Executed 13 in 5
+[EXECUTION][TIME:2753] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2753] Context switched to head of queue.
+[EXECUTION][TIME:2758] Executed 14 in 5
+[EXECUTION][TIME:2758] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2758] Context switched to head of queue.
+[EXECUTION][TIME:2763] Executed 15 in 5
+[EXECUTION][TIME:2763] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2763] Context switched to head of queue.
+[EXECUTION][TIME:2768] Executed 16 in 5
+[EXECUTION][TIME:2768] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2768] Context switched to head of queue.
+[EXECUTION][TIME:2773] Executed 18 in 5
+[EXECUTION][TIME:2773] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2773] Context switched to head of queue.
+[EXECUTION][TIME:2778] Executed 19 in 5
+[EXECUTION][TIME:2778] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2778] Context switched to head of queue.
+[EXECUTION][TIME:2783] Executed 20 in 5
+[EXECUTION][TIME:2783] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2783] Context switched to head of queue.
+[EXECUTION][TIME:2788] Executed 22 in 5
+[EXECUTION][TIME:2788] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2788] Context switched to head of queue.
+[EXECUTION][TIME:2793] Executed 23 in 5
+[EXECUTION][TIME:2793] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2793] Context switched to head of queue.
+[EXECUTION][TIME:2798] Executed 24 in 5
+[EXECUTION][TIME:2798] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2798] Context switched to head of queue.
+[EXECUTION][TIME:2803] Executed 25 in 5
+[EXECUTION][TIME:2803] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2803] Context switched to head of queue.
+[EXECUTION][TIME:2808] Executed 26 in 5
+[EXECUTION][TIME:2808] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2808] Context switched to head of queue.
+[EXECUTION][TIME:2813] Executed 29 in 5
+[EXECUTION][TIME:2813] Process has  61 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2813] Context switched to head of queue.
+[EXECUTION][TIME:2818] Executed 31 in 5
+[EXECUTION][TIME:2818] Process has  44 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2818] Context switched to head of queue.
+[EXECUTION][TIME:2823] Executed 32 in 5
+[EXECUTION][TIME:2823] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2823] Context switched to head of queue.
+[EXECUTION][TIME:2828] Executed 33 in 5
+[EXECUTION][TIME:2828] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2828] Context switched to head of queue.
+[EXECUTION][TIME:2833] Executed 34 in 5
+[EXECUTION][TIME:2833] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2833] Context switched to head of queue.
+[EXECUTION][TIME:2834] Executed 35 in 1
+[EXECUTION][TIME:2834] Completed following process, removed from queue.
+[EXECUTION][TIME:2839] Executed 37 in 5
+[EXECUTION][TIME:2839] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2839] Context switched to head of queue.
+[EXECUTION][TIME:2844] Executed 38 in 5
+[EXECUTION][TIME:2844] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2844] Context switched to head of queue.
+[EXECUTION][TIME:2849] Executed 40 in 5
+[EXECUTION][TIME:2849] Completed following process, removed from queue.
+[EXECUTION][TIME:2854] Executed 41 in 5
+[EXECUTION][TIME:2854] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2854] Context switched to head of queue.
+[EXECUTION][TIME:2859] Executed 42 in 5
+[EXECUTION][TIME:2859] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2859] Context switched to head of queue.
+[EXECUTION][TIME:2864] Executed 44 in 5
+[EXECUTION][TIME:2864] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2864] Context switched to head of queue.
+[EXECUTION][TIME:2869] Executed 45 in 5
+[EXECUTION][TIME:2869] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2869] Context switched to head of queue.
+[EXECUTION][TIME:2874] Executed 46 in 5
+[EXECUTION][TIME:2874] Process has  65 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2874] Context switched to head of queue.
+[EXECUTION][TIME:2879] Executed 47 in 5
+[EXECUTION][TIME:2879] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2879] Context switched to head of queue.
+[EXECUTION][TIME:2884] Executed 48 in 5
+[EXECUTION][TIME:2884] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2884] Context switched to head of queue.
+[EXECUTION][TIME:2889] Executed 49 in 5
+[EXECUTION][TIME:2889] Process has  48 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2889] Context switched to head of queue.
+[EXECUTION][TIME:2894] Executed 50 in 5
+[EXECUTION][TIME:2894] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2894] Context switched to head of queue.
+[EXECUTION][TIME:2896] Executed 52 in 2
+[EXECUTION][TIME:2896] Completed following process, removed from queue.
+[EXECUTION][TIME:2901] Executed 53 in 5
+[EXECUTION][TIME:2901] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2901] Context switched to head of queue.
+[EXECUTION][TIME:2906] Executed 54 in 5
+[EXECUTION][TIME:2906] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2906] Context switched to head of queue.
+[EXECUTION][TIME:2911] Executed 56 in 5
+[EXECUTION][TIME:2911] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2911] Context switched to head of queue.
+[EXECUTION][TIME:2916] Executed 59 in 5
+[EXECUTION][TIME:2916] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2916] Context switched to head of queue.
+[EXECUTION][TIME:2921] Executed 60 in 5
+[EXECUTION][TIME:2921] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2921] Context switched to head of queue.
+[EXECUTION][TIME:2926] Executed 61 in 5
+[EXECUTION][TIME:2926] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2926] Context switched to head of queue.
+[EXECUTION][TIME:2931] Executed 62 in 5
+[EXECUTION][TIME:2931] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2931] Context switched to head of queue.
+[EXECUTION][TIME:2935] Executed 63 in 4
+[EXECUTION][TIME:2935] Completed following process, removed from queue.
+[EXECUTION][TIME:2940] Executed 64 in 5
+[EXECUTION][TIME:2940] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2940] Context switched to head of queue.
+[EXECUTION][TIME:2945] Executed 65 in 5
+[EXECUTION][TIME:2945] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2945] Context switched to head of queue.
+[EXECUTION][TIME:2950] Executed 66 in 5
+[EXECUTION][TIME:2950] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2950] Context switched to head of queue.
+[EXECUTION][TIME:2955] Executed 67 in 5
+[EXECUTION][TIME:2955] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2955] Context switched to head of queue.
+[EXECUTION][TIME:2960] Executed 68 in 5
+[EXECUTION][TIME:2960] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2960] Context switched to head of queue.
+[EXECUTION][TIME:2965] Executed 69 in 5
+[EXECUTION][TIME:2965] Process has  57 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2965] Context switched to head of queue.
+[EXECUTION][TIME:2970] Executed 70 in 5
+[EXECUTION][TIME:2970] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2970] Context switched to head of queue.
+[EXECUTION][TIME:2975] Executed 71 in 5
+[EXECUTION][TIME:2975] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2975] Context switched to head of queue.
+[EXECUTION][TIME:2980] Executed 72 in 5
+[EXECUTION][TIME:2980] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2980] Context switched to head of queue.
+[EXECUTION][TIME:2985] Executed 73 in 5
+[EXECUTION][TIME:2985] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2985] Context switched to head of queue.
+[EXECUTION][TIME:2990] Executed 74 in 5
+[EXECUTION][TIME:2990] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2990] Context switched to head of queue.
+[EXECUTION][TIME:2995] Executed 76 in 5
+[EXECUTION][TIME:2995] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:2995] Context switched to head of queue.
+[EXECUTION][TIME:3000] Executed 77 in 5
+[EXECUTION][TIME:3000] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3000] Context switched to head of queue.
+[EXECUTION][TIME:3005] Executed 78 in 5
+[EXECUTION][TIME:3005] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3005] Context switched to head of queue.
+[EXECUTION][TIME:3010] Executed 79 in 5
+[EXECUTION][TIME:3010] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3010] Context switched to head of queue.
+[EXECUTION][TIME:3015] Executed 80 in 5
+[EXECUTION][TIME:3015] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3015] Context switched to head of queue.
+[EXECUTION][TIME:3018] Executed 82 in 3
+[EXECUTION][TIME:3018] Completed following process, removed from queue.
+[EXECUTION][TIME:3023] Executed 83 in 5
+[EXECUTION][TIME:3023] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3023] Context switched to head of queue.
+[EXECUTION][TIME:3028] Executed 85 in 5
+[EXECUTION][TIME:3028] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3028] Context switched to head of queue.
+[EXECUTION][TIME:3033] Executed 86 in 5
+[EXECUTION][TIME:3033] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3033] Context switched to head of queue.
+[EXECUTION][TIME:3038] Executed 87 in 5
+[EXECUTION][TIME:3038] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3038] Context switched to head of queue.
+[EXECUTION][TIME:3043] Executed 88 in 5
+[EXECUTION][TIME:3043] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3043] Context switched to head of queue.
+[EXECUTION][TIME:3048] Executed 89 in 5
+[EXECUTION][TIME:3048] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3048] Context switched to head of queue.
+[EXECUTION][TIME:3053] Executed 90 in 5
+[EXECUTION][TIME:3053] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3053] Context switched to head of queue.
+[EXECUTION][TIME:3058] Executed 91 in 5
+[EXECUTION][TIME:3058] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3058] Context switched to head of queue.
+[EXECUTION][TIME:3063] Executed 92 in 5
+[EXECUTION][TIME:3063] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3063] Context switched to head of queue.
+[EXECUTION][TIME:3068] Executed 93 in 5
+[EXECUTION][TIME:3068] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3068] Context switched to head of queue.
+[EXECUTION][TIME:3073] Executed 95 in 5
+[EXECUTION][TIME:3073] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3073] Context switched to head of queue.
+[EXECUTION][TIME:3078] Executed 96 in 5
+[EXECUTION][TIME:3078] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3078] Context switched to head of queue.
+[EXECUTION][TIME:3083] Executed 97 in 5
+[EXECUTION][TIME:3083] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3083] Context switched to head of queue.
+[EXECUTION][TIME:3088] Executed 98 in 5
+[EXECUTION][TIME:3088] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3088] Context switched to head of queue.
+[EXECUTION][TIME:3093] Executed 1 in 5
+[EXECUTION][TIME:3093] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3093] Context switched to head of queue.
+[EXECUTION][TIME:3098] Executed 3 in 5
+[EXECUTION][TIME:3098] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3098] Context switched to head of queue.
+[EXECUTION][TIME:3103] Executed 4 in 5
+[EXECUTION][TIME:3103] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3103] Context switched to head of queue.
+[EXECUTION][TIME:3108] Executed 5 in 5
+[EXECUTION][TIME:3108] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3108] Context switched to head of queue.
+[EXECUTION][TIME:3113] Executed 6 in 5
+[EXECUTION][TIME:3113] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3113] Context switched to head of queue.
+[EXECUTION][TIME:3118] Executed 7 in 5
+[EXECUTION][TIME:3118] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3118] Context switched to head of queue.
+[EXECUTION][TIME:3123] Executed 8 in 5
+[EXECUTION][TIME:3123] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3123] Context switched to head of queue.
+[EXECUTION][TIME:3128] Executed 9 in 5
+[EXECUTION][TIME:3128] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3128] Context switched to head of queue.
+[EXECUTION][TIME:3133] Executed 10 in 5
+[EXECUTION][TIME:3133] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3133] Context switched to head of queue.
+[EXECUTION][TIME:3138] Executed 12 in 5
+[EXECUTION][TIME:3138] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3138] Context switched to head of queue.
+[EXECUTION][TIME:3143] Executed 13 in 5
+[EXECUTION][TIME:3143] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3143] Context switched to head of queue.
+[EXECUTION][TIME:3148] Executed 14 in 5
+[EXECUTION][TIME:3148] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3148] Context switched to head of queue.
+[EXECUTION][TIME:3153] Executed 15 in 5
+[EXECUTION][TIME:3153] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3153] Context switched to head of queue.
+[EXECUTION][TIME:3158] Executed 16 in 5
+[EXECUTION][TIME:3158] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3158] Context switched to head of queue.
+[EXECUTION][TIME:3163] Executed 18 in 5
+[EXECUTION][TIME:3163] Completed following process, removed from queue.
+[EXECUTION][TIME:3168] Executed 19 in 5
+[EXECUTION][TIME:3168] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3168] Context switched to head of queue.
+[EXECUTION][TIME:3169] Executed 20 in 1
+[EXECUTION][TIME:3169] Completed following process, removed from queue.
+[EXECUTION][TIME:3174] Executed 22 in 5
+[EXECUTION][TIME:3174] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3174] Context switched to head of queue.
+[EXECUTION][TIME:3179] Executed 23 in 5
+[EXECUTION][TIME:3179] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3179] Context switched to head of queue.
+[EXECUTION][TIME:3184] Executed 24 in 5
+[EXECUTION][TIME:3184] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3184] Context switched to head of queue.
+[EXECUTION][TIME:3189] Executed 25 in 5
+[EXECUTION][TIME:3189] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3189] Context switched to head of queue.
+[EXECUTION][TIME:3194] Executed 26 in 5
+[EXECUTION][TIME:3194] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3194] Context switched to head of queue.
+[EXECUTION][TIME:3199] Executed 29 in 5
+[EXECUTION][TIME:3199] Process has  56 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3199] Context switched to head of queue.
+[EXECUTION][TIME:3204] Executed 31 in 5
+[EXECUTION][TIME:3204] Process has  39 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3204] Context switched to head of queue.
+[EXECUTION][TIME:3209] Executed 32 in 5
+[EXECUTION][TIME:3209] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3209] Context switched to head of queue.
+[EXECUTION][TIME:3214] Executed 33 in 5
+[EXECUTION][TIME:3214] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3214] Context switched to head of queue.
+[EXECUTION][TIME:3218] Executed 34 in 4
+[EXECUTION][TIME:3218] Completed following process, removed from queue.
+[EXECUTION][TIME:3223] Executed 37 in 5
+[EXECUTION][TIME:3223] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3223] Context switched to head of queue.
+[EXECUTION][TIME:3228] Executed 38 in 5
+[EXECUTION][TIME:3228] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3228] Context switched to head of queue.
+[EXECUTION][TIME:3233] Executed 41 in 5
+[EXECUTION][TIME:3233] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3233] Context switched to head of queue.
+[EXECUTION][TIME:3238] Executed 42 in 5
+[EXECUTION][TIME:3238] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3238] Context switched to head of queue.
+[EXECUTION][TIME:3243] Executed 44 in 5
+[EXECUTION][TIME:3243] Completed following process, removed from queue.
+[EXECUTION][TIME:3248] Executed 45 in 5
+[EXECUTION][TIME:3248] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3248] Context switched to head of queue.
+[EXECUTION][TIME:3253] Executed 46 in 5
+[EXECUTION][TIME:3253] Process has  60 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3253] Context switched to head of queue.
+[EXECUTION][TIME:3256] Executed 47 in 3
+[EXECUTION][TIME:3256] Completed following process, removed from queue.
+[EXECUTION][TIME:3261] Executed 48 in 5
+[EXECUTION][TIME:3261] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3261] Context switched to head of queue.
+[EXECUTION][TIME:3266] Executed 49 in 5
+[EXECUTION][TIME:3266] Process has  43 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3266] Context switched to head of queue.
+[EXECUTION][TIME:3271] Executed 50 in 5
+[EXECUTION][TIME:3271] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3271] Context switched to head of queue.
+[EXECUTION][TIME:3276] Executed 53 in 5
+[EXECUTION][TIME:3276] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3276] Context switched to head of queue.
+[EXECUTION][TIME:3281] Executed 54 in 5
+[EXECUTION][TIME:3281] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3281] Context switched to head of queue.
+[EXECUTION][TIME:3286] Executed 56 in 5
+[EXECUTION][TIME:3286] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3286] Context switched to head of queue.
+[EXECUTION][TIME:3291] Executed 59 in 5
+[EXECUTION][TIME:3291] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3291] Context switched to head of queue.
+[EXECUTION][TIME:3296] Executed 60 in 5
+[EXECUTION][TIME:3296] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3296] Context switched to head of queue.
+[EXECUTION][TIME:3301] Executed 61 in 5
+[EXECUTION][TIME:3301] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3301] Context switched to head of queue.
+[EXECUTION][TIME:3306] Executed 62 in 5
+[EXECUTION][TIME:3306] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3306] Context switched to head of queue.
+[EXECUTION][TIME:3311] Executed 64 in 5
+[EXECUTION][TIME:3311] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3311] Context switched to head of queue.
+[EXECUTION][TIME:3313] Executed 65 in 2
+[EXECUTION][TIME:3313] Completed following process, removed from queue.
+[EXECUTION][TIME:3318] Executed 66 in 5
+[EXECUTION][TIME:3318] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3318] Context switched to head of queue.
+[EXECUTION][TIME:3323] Executed 67 in 5
+[EXECUTION][TIME:3323] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3323] Context switched to head of queue.
+[EXECUTION][TIME:3328] Executed 68 in 5
+[EXECUTION][TIME:3328] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3328] Context switched to head of queue.
+[EXECUTION][TIME:3333] Executed 69 in 5
+[EXECUTION][TIME:3333] Process has  52 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3333] Context switched to head of queue.
+[EXECUTION][TIME:3338] Executed 70 in 5
+[EXECUTION][TIME:3338] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3338] Context switched to head of queue.
+[EXECUTION][TIME:3343] Executed 71 in 5
+[EXECUTION][TIME:3343] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3343] Context switched to head of queue.
+[EXECUTION][TIME:3348] Executed 72 in 5
+[EXECUTION][TIME:3348] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3348] Context switched to head of queue.
+[EXECUTION][TIME:3353] Executed 73 in 5
+[EXECUTION][TIME:3353] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3353] Context switched to head of queue.
+[EXECUTION][TIME:3358] Executed 74 in 5
+[EXECUTION][TIME:3358] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3358] Context switched to head of queue.
+[EXECUTION][TIME:3363] Executed 76 in 5
+[EXECUTION][TIME:3363] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3363] Context switched to head of queue.
+[EXECUTION][TIME:3368] Executed 77 in 5
+[EXECUTION][TIME:3368] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3368] Context switched to head of queue.
+[EXECUTION][TIME:3373] Executed 78 in 5
+[EXECUTION][TIME:3373] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3373] Context switched to head of queue.
+[EXECUTION][TIME:3375] Executed 79 in 2
+[EXECUTION][TIME:3375] Completed following process, removed from queue.
+[EXECUTION][TIME:3380] Executed 80 in 5
+[EXECUTION][TIME:3380] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3380] Context switched to head of queue.
+[EXECUTION][TIME:3384] Executed 83 in 4
+[EXECUTION][TIME:3384] Completed following process, removed from queue.
+[EXECUTION][TIME:3389] Executed 85 in 5
+[EXECUTION][TIME:3389] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3389] Context switched to head of queue.
+[EXECUTION][TIME:3394] Executed 86 in 5
+[EXECUTION][TIME:3394] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3394] Context switched to head of queue.
+[EXECUTION][TIME:3399] Executed 87 in 5
+[EXECUTION][TIME:3399] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3399] Context switched to head of queue.
+[EXECUTION][TIME:3404] Executed 88 in 5
+[EXECUTION][TIME:3404] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3404] Context switched to head of queue.
+[EXECUTION][TIME:3409] Executed 89 in 5
+[EXECUTION][TIME:3409] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3409] Context switched to head of queue.
+[EXECUTION][TIME:3414] Executed 90 in 5
+[EXECUTION][TIME:3414] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3414] Context switched to head of queue.
+[EXECUTION][TIME:3419] Executed 91 in 5
+[EXECUTION][TIME:3419] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3419] Context switched to head of queue.
+[EXECUTION][TIME:3424] Executed 92 in 5
+[EXECUTION][TIME:3424] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3424] Context switched to head of queue.
+[EXECUTION][TIME:3429] Executed 93 in 5
+[EXECUTION][TIME:3429] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3429] Context switched to head of queue.
+[EXECUTION][TIME:3434] Executed 95 in 5
+[EXECUTION][TIME:3434] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3434] Context switched to head of queue.
+[EXECUTION][TIME:3439] Executed 96 in 5
+[EXECUTION][TIME:3439] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3439] Context switched to head of queue.
+[EXECUTION][TIME:3444] Executed 97 in 5
+[EXECUTION][TIME:3444] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3444] Context switched to head of queue.
+[EXECUTION][TIME:3449] Executed 98 in 5
+[EXECUTION][TIME:3449] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3449] Context switched to head of queue.
+[EXECUTION][TIME:3454] Executed 1 in 5
+[EXECUTION][TIME:3454] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3454] Context switched to head of queue.
+[EXECUTION][TIME:3459] Executed 3 in 5
+[EXECUTION][TIME:3459] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3459] Context switched to head of queue.
+[EXECUTION][TIME:3464] Executed 4 in 5
+[EXECUTION][TIME:3464] Completed following process, removed from queue.
+[EXECUTION][TIME:3469] Executed 5 in 5
+[EXECUTION][TIME:3469] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3469] Context switched to head of queue.
+[EXECUTION][TIME:3474] Executed 6 in 5
+[EXECUTION][TIME:3474] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3474] Context switched to head of queue.
+[EXECUTION][TIME:3479] Executed 7 in 5
+[EXECUTION][TIME:3479] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3479] Context switched to head of queue.
+[EXECUTION][TIME:3484] Executed 8 in 5
+[EXECUTION][TIME:3484] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3484] Context switched to head of queue.
+[EXECUTION][TIME:3489] Executed 9 in 5
+[EXECUTION][TIME:3489] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3489] Context switched to head of queue.
+[EXECUTION][TIME:3494] Executed 10 in 5
+[EXECUTION][TIME:3494] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3494] Context switched to head of queue.
+[EXECUTION][TIME:3499] Executed 12 in 5
+[EXECUTION][TIME:3499] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3499] Context switched to head of queue.
+[EXECUTION][TIME:3504] Executed 13 in 5
+[EXECUTION][TIME:3504] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3504] Context switched to head of queue.
+[EXECUTION][TIME:3509] Executed 14 in 5
+[EXECUTION][TIME:3509] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3509] Context switched to head of queue.
+[EXECUTION][TIME:3514] Executed 15 in 5
+[EXECUTION][TIME:3514] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3514] Context switched to head of queue.
+[EXECUTION][TIME:3519] Executed 16 in 5
+[EXECUTION][TIME:3519] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3519] Context switched to head of queue.
+[EXECUTION][TIME:3524] Executed 19 in 5
+[EXECUTION][TIME:3524] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3524] Context switched to head of queue.
+[EXECUTION][TIME:3526] Executed 22 in 2
+[EXECUTION][TIME:3526] Completed following process, removed from queue.
+[EXECUTION][TIME:3531] Executed 23 in 5
+[EXECUTION][TIME:3531] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3531] Context switched to head of queue.
+[EXECUTION][TIME:3534] Executed 24 in 3
+[EXECUTION][TIME:3534] Completed following process, removed from queue.
+[EXECUTION][TIME:3538] Executed 25 in 4
+[EXECUTION][TIME:3538] Completed following process, removed from queue.
+[EXECUTION][TIME:3543] Executed 26 in 5
+[EXECUTION][TIME:3543] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3543] Context switched to head of queue.
+[EXECUTION][TIME:3548] Executed 29 in 5
+[EXECUTION][TIME:3548] Process has  51 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3548] Context switched to head of queue.
+[EXECUTION][TIME:3553] Executed 31 in 5
+[EXECUTION][TIME:3553] Process has  34 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3553] Context switched to head of queue.
+[EXECUTION][TIME:3558] Executed 32 in 5
+[EXECUTION][TIME:3558] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3558] Context switched to head of queue.
+[EXECUTION][TIME:3563] Executed 33 in 5
+[EXECUTION][TIME:3563] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3563] Context switched to head of queue.
+[EXECUTION][TIME:3568] Executed 37 in 5
+[EXECUTION][TIME:3568] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3568] Context switched to head of queue.
+[EXECUTION][TIME:3573] Executed 38 in 5
+[EXECUTION][TIME:3573] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3573] Context switched to head of queue.
+[EXECUTION][TIME:3578] Executed 41 in 5
+[EXECUTION][TIME:3578] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3578] Context switched to head of queue.
+[EXECUTION][TIME:3583] Executed 42 in 5
+[EXECUTION][TIME:3583] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3583] Context switched to head of queue.
+[EXECUTION][TIME:3588] Executed 45 in 5
+[EXECUTION][TIME:3588] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3588] Context switched to head of queue.
+[EXECUTION][TIME:3593] Executed 46 in 5
+[EXECUTION][TIME:3593] Process has  55 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3593] Context switched to head of queue.
+[EXECUTION][TIME:3598] Executed 48 in 5
+[EXECUTION][TIME:3598] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3598] Context switched to head of queue.
+[EXECUTION][TIME:3603] Executed 49 in 5
+[EXECUTION][TIME:3603] Process has  38 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3603] Context switched to head of queue.
+[EXECUTION][TIME:3604] Executed 50 in 1
+[EXECUTION][TIME:3604] Completed following process, removed from queue.
+[EXECUTION][TIME:3609] Executed 53 in 5
+[EXECUTION][TIME:3609] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3609] Context switched to head of queue.
+[EXECUTION][TIME:3614] Executed 54 in 5
+[EXECUTION][TIME:3614] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3614] Context switched to head of queue.
+[EXECUTION][TIME:3619] Executed 56 in 5
+[EXECUTION][TIME:3619] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3619] Context switched to head of queue.
+[EXECUTION][TIME:3624] Executed 59 in 5
+[EXECUTION][TIME:3624] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3624] Context switched to head of queue.
+[EXECUTION][TIME:3629] Executed 60 in 5
+[EXECUTION][TIME:3629] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3629] Context switched to head of queue.
+[EXECUTION][TIME:3634] Executed 61 in 5
+[EXECUTION][TIME:3634] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3634] Context switched to head of queue.
+[EXECUTION][TIME:3639] Executed 62 in 5
+[EXECUTION][TIME:3639] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3639] Context switched to head of queue.
+[EXECUTION][TIME:3644] Executed 64 in 5
+[EXECUTION][TIME:3644] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3644] Context switched to head of queue.
+[EXECUTION][TIME:3649] Executed 66 in 5
+[EXECUTION][TIME:3649] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3649] Context switched to head of queue.
+[EXECUTION][TIME:3654] Executed 67 in 5
+[EXECUTION][TIME:3654] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3654] Context switched to head of queue.
+[EXECUTION][TIME:3659] Executed 68 in 5
+[EXECUTION][TIME:3659] Completed following process, removed from queue.
+[EXECUTION][TIME:3664] Executed 69 in 5
+[EXECUTION][TIME:3664] Process has  47 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3664] Context switched to head of queue.
+[EXECUTION][TIME:3669] Executed 70 in 5
+[EXECUTION][TIME:3669] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3669] Context switched to head of queue.
+[EXECUTION][TIME:3674] Executed 71 in 5
+[EXECUTION][TIME:3674] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3674] Context switched to head of queue.
+[EXECUTION][TIME:3679] Executed 72 in 5
+[EXECUTION][TIME:3679] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3679] Context switched to head of queue.
+[EXECUTION][TIME:3682] Executed 73 in 3
+[EXECUTION][TIME:3682] Completed following process, removed from queue.
+[EXECUTION][TIME:3686] Executed 74 in 4
+[EXECUTION][TIME:3686] Completed following process, removed from queue.
+[EXECUTION][TIME:3691] Executed 76 in 5
+[EXECUTION][TIME:3691] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3691] Context switched to head of queue.
+[EXECUTION][TIME:3696] Executed 77 in 5
+[EXECUTION][TIME:3696] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3696] Context switched to head of queue.
+[EXECUTION][TIME:3701] Executed 78 in 5
+[EXECUTION][TIME:3701] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3701] Context switched to head of queue.
+[EXECUTION][TIME:3706] Executed 80 in 5
+[EXECUTION][TIME:3706] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3706] Context switched to head of queue.
+[EXECUTION][TIME:3711] Executed 85 in 5
+[EXECUTION][TIME:3711] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3711] Context switched to head of queue.
+[EXECUTION][TIME:3716] Executed 86 in 5
+[EXECUTION][TIME:3716] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3716] Context switched to head of queue.
+[EXECUTION][TIME:3717] Executed 87 in 1
+[EXECUTION][TIME:3717] Completed following process, removed from queue.
+[EXECUTION][TIME:3722] Executed 88 in 5
+[EXECUTION][TIME:3722] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3722] Context switched to head of queue.
+[EXECUTION][TIME:3727] Executed 89 in 5
+[EXECUTION][TIME:3727] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3727] Context switched to head of queue.
+[EXECUTION][TIME:3732] Executed 90 in 5
+[EXECUTION][TIME:3732] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3732] Context switched to head of queue.
+[EXECUTION][TIME:3737] Executed 91 in 5
+[EXECUTION][TIME:3737] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3737] Context switched to head of queue.
+[EXECUTION][TIME:3742] Executed 92 in 5
+[EXECUTION][TIME:3742] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3742] Context switched to head of queue.
+[EXECUTION][TIME:3747] Executed 93 in 5
+[EXECUTION][TIME:3747] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3747] Context switched to head of queue.
+[EXECUTION][TIME:3749] Executed 95 in 2
+[EXECUTION][TIME:3749] Completed following process, removed from queue.
+[EXECUTION][TIME:3751] Executed 96 in 2
+[EXECUTION][TIME:3751] Completed following process, removed from queue.
+[EXECUTION][TIME:3756] Executed 97 in 5
+[EXECUTION][TIME:3756] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3756] Context switched to head of queue.
+[EXECUTION][TIME:3761] Executed 98 in 5
+[EXECUTION][TIME:3761] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3761] Context switched to head of queue.
+[EXECUTION][TIME:3765] Executed 1 in 4
+[EXECUTION][TIME:3765] Completed following process, removed from queue.
+[EXECUTION][TIME:3770] Executed 3 in 5
+[EXECUTION][TIME:3770] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3770] Context switched to head of queue.
+[EXECUTION][TIME:3772] Executed 5 in 2
+[EXECUTION][TIME:3772] Completed following process, removed from queue.
+[EXECUTION][TIME:3777] Executed 6 in 5
+[EXECUTION][TIME:3777] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3777] Context switched to head of queue.
+[EXECUTION][TIME:3782] Executed 7 in 5
+[EXECUTION][TIME:3782] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3782] Context switched to head of queue.
+[EXECUTION][TIME:3787] Executed 8 in 5
+[EXECUTION][TIME:3787] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3787] Context switched to head of queue.
+[EXECUTION][TIME:3792] Executed 9 in 5
+[EXECUTION][TIME:3792] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3792] Context switched to head of queue.
+[EXECUTION][TIME:3797] Executed 10 in 5
+[EXECUTION][TIME:3797] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3797] Context switched to head of queue.
+[EXECUTION][TIME:3802] Executed 12 in 5
+[EXECUTION][TIME:3802] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3802] Context switched to head of queue.
+[EXECUTION][TIME:3807] Executed 13 in 5
+[EXECUTION][TIME:3807] Process has  26 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3807] Context switched to head of queue.
+[EXECUTION][TIME:3812] Executed 14 in 5
+[EXECUTION][TIME:3812] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3812] Context switched to head of queue.
+[EXECUTION][TIME:3815] Executed 15 in 3
+[EXECUTION][TIME:3815] Completed following process, removed from queue.
+[EXECUTION][TIME:3820] Executed 16 in 5
+[EXECUTION][TIME:3820] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3820] Context switched to head of queue.
+[EXECUTION][TIME:3825] Executed 19 in 5
+[EXECUTION][TIME:3825] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3825] Context switched to head of queue.
+[EXECUTION][TIME:3830] Executed 23 in 5
+[EXECUTION][TIME:3830] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3830] Context switched to head of queue.
+[EXECUTION][TIME:3835] Executed 26 in 5
+[EXECUTION][TIME:3835] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3835] Context switched to head of queue.
+[EXECUTION][TIME:3840] Executed 29 in 5
+[EXECUTION][TIME:3840] Process has  46 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3840] Context switched to head of queue.
+[EXECUTION][TIME:3845] Executed 31 in 5
+[EXECUTION][TIME:3845] Process has  29 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3845] Context switched to head of queue.
+[EXECUTION][TIME:3849] Executed 32 in 4
+[EXECUTION][TIME:3849] Completed following process, removed from queue.
+[EXECUTION][TIME:3854] Executed 33 in 5
+[EXECUTION][TIME:3854] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3854] Context switched to head of queue.
+[EXECUTION][TIME:3859] Executed 37 in 5
+[EXECUTION][TIME:3859] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3859] Context switched to head of queue.
+[EXECUTION][TIME:3864] Executed 38 in 5
+[EXECUTION][TIME:3864] Process has  22 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3864] Context switched to head of queue.
+[EXECUTION][TIME:3867] Executed 41 in 3
+[EXECUTION][TIME:3867] Completed following process, removed from queue.
+[EXECUTION][TIME:3872] Executed 42 in 5
+[EXECUTION][TIME:3872] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3872] Context switched to head of queue.
+[EXECUTION][TIME:3877] Executed 45 in 5
+[EXECUTION][TIME:3877] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3877] Context switched to head of queue.
+[EXECUTION][TIME:3882] Executed 46 in 5
+[EXECUTION][TIME:3882] Process has  50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3882] Context switched to head of queue.
+[EXECUTION][TIME:3887] Executed 48 in 5
+[EXECUTION][TIME:3887] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3887] Context switched to head of queue.
+[EXECUTION][TIME:3892] Executed 49 in 5
+[EXECUTION][TIME:3892] Process has  33 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3892] Context switched to head of queue.
+[EXECUTION][TIME:3897] Executed 53 in 5
+[EXECUTION][TIME:3897] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3897] Context switched to head of queue.
+[EXECUTION][TIME:3902] Executed 54 in 5
+[EXECUTION][TIME:3902] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3902] Context switched to head of queue.
+[EXECUTION][TIME:3907] Executed 56 in 5
+[EXECUTION][TIME:3907] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3907] Context switched to head of queue.
+[EXECUTION][TIME:3908] Executed 59 in 1
+[EXECUTION][TIME:3908] Completed following process, removed from queue.
+[EXECUTION][TIME:3913] Executed 60 in 5
+[EXECUTION][TIME:3913] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3913] Context switched to head of queue.
+[EXECUTION][TIME:3918] Executed 61 in 5
+[EXECUTION][TIME:3918] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3918] Context switched to head of queue.
+[EXECUTION][TIME:3923] Executed 62 in 5
+[EXECUTION][TIME:3923] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3923] Context switched to head of queue.
+[EXECUTION][TIME:3928] Executed 64 in 5
+[EXECUTION][TIME:3928] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3928] Context switched to head of queue.
+[EXECUTION][TIME:3933] Executed 66 in 5
+[EXECUTION][TIME:3933] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3933] Context switched to head of queue.
+[EXECUTION][TIME:3938] Executed 67 in 5
+[EXECUTION][TIME:3938] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3938] Context switched to head of queue.
+[EXECUTION][TIME:3943] Executed 69 in 5
+[EXECUTION][TIME:3943] Process has  42 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3943] Context switched to head of queue.
+[EXECUTION][TIME:3948] Executed 70 in 5
+[EXECUTION][TIME:3948] Completed following process, removed from queue.
+[EXECUTION][TIME:3953] Executed 71 in 5
+[EXECUTION][TIME:3953] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3953] Context switched to head of queue.
+[EXECUTION][TIME:3954] Executed 72 in 1
+[EXECUTION][TIME:3954] Completed following process, removed from queue.
+[EXECUTION][TIME:3959] Executed 76 in 5
+[EXECUTION][TIME:3959] Completed following process, removed from queue.
+[EXECUTION][TIME:3964] Executed 77 in 5
+[EXECUTION][TIME:3964] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3964] Context switched to head of queue.
+[EXECUTION][TIME:3969] Executed 78 in 5
+[EXECUTION][TIME:3969] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3969] Context switched to head of queue.
+[EXECUTION][TIME:3974] Executed 80 in 5
+[EXECUTION][TIME:3974] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3974] Context switched to head of queue.
+[EXECUTION][TIME:3976] Executed 85 in 2
+[EXECUTION][TIME:3976] Completed following process, removed from queue.
+[EXECUTION][TIME:3978] Executed 86 in 2
+[EXECUTION][TIME:3978] Completed following process, removed from queue.
+[EXECUTION][TIME:3983] Executed 88 in 5
+[EXECUTION][TIME:3983] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3983] Context switched to head of queue.
+[EXECUTION][TIME:3988] Executed 89 in 5
+[EXECUTION][TIME:3988] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3988] Context switched to head of queue.
+[EXECUTION][TIME:3989] Executed 90 in 1
+[EXECUTION][TIME:3989] Completed following process, removed from queue.
+[EXECUTION][TIME:3994] Executed 91 in 5
+[EXECUTION][TIME:3994] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:3994] Context switched to head of queue.
+[EXECUTION][TIME:3999] Executed 92 in 5
+[EXECUTION][TIME:3999] Completed following process, removed from queue.
+[EXECUTION][TIME:4004] Executed 93 in 5
+[EXECUTION][TIME:4004] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4004] Context switched to head of queue.
+[EXECUTION][TIME:4009] Executed 97 in 5
+[EXECUTION][TIME:4009] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4009] Context switched to head of queue.
+[EXECUTION][TIME:4014] Executed 98 in 5
+[EXECUTION][TIME:4014] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4014] Context switched to head of queue.
+[EXECUTION][TIME:4019] Executed 3 in 5
+[EXECUTION][TIME:4019] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4019] Context switched to head of queue.
+[EXECUTION][TIME:4024] Executed 6 in 5
+[EXECUTION][TIME:4024] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4024] Context switched to head of queue.
+[EXECUTION][TIME:4025] Executed 7 in 1
+[EXECUTION][TIME:4025] Completed following process, removed from queue.
+[EXECUTION][TIME:4030] Executed 8 in 5
+[EXECUTION][TIME:4030] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4030] Context switched to head of queue.
+[EXECUTION][TIME:4035] Executed 9 in 5
+[EXECUTION][TIME:4035] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4035] Context switched to head of queue.
+[EXECUTION][TIME:4040] Executed 10 in 5
+[EXECUTION][TIME:4040] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4040] Context switched to head of queue.
+[EXECUTION][TIME:4045] Executed 12 in 5
+[EXECUTION][TIME:4045] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4045] Context switched to head of queue.
+[EXECUTION][TIME:4050] Executed 13 in 5
+[EXECUTION][TIME:4050] Process has  21 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4050] Context switched to head of queue.
+[EXECUTION][TIME:4055] Executed 14 in 5
+[EXECUTION][TIME:4055] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4055] Context switched to head of queue.
+[EXECUTION][TIME:4060] Executed 16 in 5
+[EXECUTION][TIME:4060] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4060] Context switched to head of queue.
+[EXECUTION][TIME:4065] Executed 19 in 5
+[EXECUTION][TIME:4065] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4065] Context switched to head of queue.
+[EXECUTION][TIME:4070] Executed 23 in 5
+[EXECUTION][TIME:4070] Completed following process, removed from queue.
+[EXECUTION][TIME:4075] Executed 26 in 5
+[EXECUTION][TIME:4075] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4075] Context switched to head of queue.
+[EXECUTION][TIME:4080] Executed 29 in 5
+[EXECUTION][TIME:4080] Process has  41 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4080] Context switched to head of queue.
+[EXECUTION][TIME:4085] Executed 31 in 5
+[EXECUTION][TIME:4085] Process has  24 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4085] Context switched to head of queue.
+[EXECUTION][TIME:4087] Executed 33 in 2
+[EXECUTION][TIME:4087] Completed following process, removed from queue.
+[EXECUTION][TIME:4090] Executed 37 in 3
+[EXECUTION][TIME:4090] Completed following process, removed from queue.
+[EXECUTION][TIME:4095] Executed 38 in 5
+[EXECUTION][TIME:4095] Process has  17 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4095] Context switched to head of queue.
+[EXECUTION][TIME:4100] Executed 42 in 5
+[EXECUTION][TIME:4100] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4100] Context switched to head of queue.
+[EXECUTION][TIME:4104] Executed 45 in 4
+[EXECUTION][TIME:4104] Completed following process, removed from queue.
+[EXECUTION][TIME:4109] Executed 46 in 5
+[EXECUTION][TIME:4109] Process has  45 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4109] Context switched to head of queue.
+[EXECUTION][TIME:4114] Executed 48 in 5
+[EXECUTION][TIME:4114] Completed following process, removed from queue.
+[EXECUTION][TIME:4119] Executed 49 in 5
+[EXECUTION][TIME:4119] Process has  28 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4119] Context switched to head of queue.
+[EXECUTION][TIME:4124] Executed 53 in 5
+[EXECUTION][TIME:4124] Completed following process, removed from queue.
+[EXECUTION][TIME:4125] Executed 54 in 1
+[EXECUTION][TIME:4125] Completed following process, removed from queue.
+[EXECUTION][TIME:4130] Executed 56 in 5
+[EXECUTION][TIME:4130] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4130] Context switched to head of queue.
+[EXECUTION][TIME:4135] Executed 60 in 5
+[EXECUTION][TIME:4135] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4135] Context switched to head of queue.
+[EXECUTION][TIME:4140] Executed 61 in 5
+[EXECUTION][TIME:4140] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4140] Context switched to head of queue.
+[EXECUTION][TIME:4145] Executed 62 in 5
+[EXECUTION][TIME:4145] Process has  13 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4145] Context switched to head of queue.
+[EXECUTION][TIME:4149] Executed 64 in 4
+[EXECUTION][TIME:4149] Completed following process, removed from queue.
+[EXECUTION][TIME:4154] Executed 66 in 5
+[EXECUTION][TIME:4154] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4154] Context switched to head of queue.
+[EXECUTION][TIME:4159] Executed 67 in 5
+[EXECUTION][TIME:4159] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4159] Context switched to head of queue.
+[EXECUTION][TIME:4164] Executed 69 in 5
+[EXECUTION][TIME:4164] Process has  37 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4164] Context switched to head of queue.
+[EXECUTION][TIME:4169] Executed 71 in 5
+[EXECUTION][TIME:4169] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4169] Context switched to head of queue.
+[EXECUTION][TIME:4174] Executed 77 in 5
+[EXECUTION][TIME:4174] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4174] Context switched to head of queue.
+[EXECUTION][TIME:4179] Executed 78 in 5
+[EXECUTION][TIME:4179] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4179] Context switched to head of queue.
+[EXECUTION][TIME:4181] Executed 80 in 2
+[EXECUTION][TIME:4181] Completed following process, removed from queue.
+[EXECUTION][TIME:4186] Executed 88 in 5
+[EXECUTION][TIME:4186] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4186] Context switched to head of queue.
+[EXECUTION][TIME:4191] Executed 89 in 5
+[EXECUTION][TIME:4191] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4191] Context switched to head of queue.
+[EXECUTION][TIME:4196] Executed 91 in 5
+[EXECUTION][TIME:4196] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4196] Context switched to head of queue.
+[EXECUTION][TIME:4201] Executed 93 in 5
+[EXECUTION][TIME:4201] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4201] Context switched to head of queue.
+[EXECUTION][TIME:4204] Executed 97 in 3
+[EXECUTION][TIME:4204] Completed following process, removed from queue.
+[EXECUTION][TIME:4209] Executed 98 in 5
+[EXECUTION][TIME:4209] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4209] Context switched to head of queue.
+[EXECUTION][TIME:4214] Executed 3 in 5
+[EXECUTION][TIME:4214] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4214] Context switched to head of queue.
+[EXECUTION][TIME:4219] Executed 6 in 5
+[EXECUTION][TIME:4219] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4219] Context switched to head of queue.
+[EXECUTION][TIME:4220] Executed 8 in 1
+[EXECUTION][TIME:4220] Completed following process, removed from queue.
+[EXECUTION][TIME:4225] Executed 9 in 5
+[EXECUTION][TIME:4225] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4225] Context switched to head of queue.
+[EXECUTION][TIME:4230] Executed 10 in 5
+[EXECUTION][TIME:4230] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4230] Context switched to head of queue.
+[EXECUTION][TIME:4235] Executed 12 in 5
+[EXECUTION][TIME:4235] Process has  10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4235] Context switched to head of queue.
+[EXECUTION][TIME:4240] Executed 13 in 5
+[EXECUTION][TIME:4240] Process has  16 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4240] Context switched to head of queue.
+[EXECUTION][TIME:4245] Executed 14 in 5
+[EXECUTION][TIME:4245] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4245] Context switched to head of queue.
+[EXECUTION][TIME:4250] Executed 16 in 5
+[EXECUTION][TIME:4250] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4250] Context switched to head of queue.
+[EXECUTION][TIME:4255] Executed 19 in 5
+[EXECUTION][TIME:4255] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4255] Context switched to head of queue.
+[EXECUTION][TIME:4257] Executed 26 in 2
+[EXECUTION][TIME:4257] Completed following process, removed from queue.
+[EXECUTION][TIME:4262] Executed 29 in 5
+[EXECUTION][TIME:4262] Process has  36 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4262] Context switched to head of queue.
+[EXECUTION][TIME:4267] Executed 31 in 5
+[EXECUTION][TIME:4267] Process has  19 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4267] Context switched to head of queue.
+[EXECUTION][TIME:4272] Executed 38 in 5
+[EXECUTION][TIME:4272] Process has  12 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4272] Context switched to head of queue.
+[EXECUTION][TIME:4277] Executed 42 in 5
+[EXECUTION][TIME:4277] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4277] Context switched to head of queue.
+[EXECUTION][TIME:4282] Executed 46 in 5
+[EXECUTION][TIME:4282] Process has  40 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4282] Context switched to head of queue.
+[EXECUTION][TIME:4287] Executed 49 in 5
+[EXECUTION][TIME:4287] Process has  23 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4287] Context switched to head of queue.
+[EXECUTION][TIME:4292] Executed 56 in 5
+[EXECUTION][TIME:4292] Process has  30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4292] Context switched to head of queue.
+[EXECUTION][TIME:4297] Executed 60 in 5
+[EXECUTION][TIME:4297] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4297] Context switched to head of queue.
+[EXECUTION][TIME:4298] Executed 61 in 1
+[EXECUTION][TIME:4298] Completed following process, removed from queue.
+[EXECUTION][TIME:4303] Executed 62 in 5
+[EXECUTION][TIME:4303] Process has  8 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4303] Context switched to head of queue.
+[EXECUTION][TIME:4308] Executed 66 in 5
+[EXECUTION][TIME:4308] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4308] Context switched to head of queue.
+[EXECUTION][TIME:4311] Executed 67 in 3
+[EXECUTION][TIME:4311] Completed following process, removed from queue.
+[EXECUTION][TIME:4316] Executed 69 in 5
+[EXECUTION][TIME:4316] Process has  32 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4316] Context switched to head of queue.
+[EXECUTION][TIME:4321] Executed 71 in 5
+[EXECUTION][TIME:4321] Completed following process, removed from queue.
+[EXECUTION][TIME:4323] Executed 77 in 2
+[EXECUTION][TIME:4323] Completed following process, removed from queue.
+[EXECUTION][TIME:4328] Executed 78 in 5
+[EXECUTION][TIME:4328] Process has  20 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4328] Context switched to head of queue.
+[EXECUTION][TIME:4333] Executed 88 in 5
+[EXECUTION][TIME:4333] Completed following process, removed from queue.
+[EXECUTION][TIME:4336] Executed 89 in 3
+[EXECUTION][TIME:4336] Completed following process, removed from queue.
+[EXECUTION][TIME:4340] Executed 91 in 4
+[EXECUTION][TIME:4340] Completed following process, removed from queue.
+[EXECUTION][TIME:4345] Executed 93 in 5
+[EXECUTION][TIME:4345] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4345] Context switched to head of queue.
+[EXECUTION][TIME:4349] Executed 98 in 4
+[EXECUTION][TIME:4349] Completed following process, removed from queue.
+[EXECUTION][TIME:4354] Executed 3 in 5
+[EXECUTION][TIME:4354] Process has  2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4354] Context switched to head of queue.
+[EXECUTION][TIME:4356] Executed 6 in 2
+[EXECUTION][TIME:4356] Completed following process, removed from queue.
+[EXECUTION][TIME:4359] Executed 9 in 3
+[EXECUTION][TIME:4359] Completed following process, removed from queue.
+[EXECUTION][TIME:4360] Executed 10 in 1
+[EXECUTION][TIME:4360] Completed following process, removed from queue.
+[EXECUTION][TIME:4365] Executed 12 in 5
+[EXECUTION][TIME:4365] Process has  5 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4365] Context switched to head of queue.
+[EXECUTION][TIME:4370] Executed 13 in 5
+[EXECUTION][TIME:4370] Process has  11 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4370] Context switched to head of queue.
+[EXECUTION][TIME:4375] Executed 14 in 5
+[EXECUTION][TIME:4375] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4375] Context switched to head of queue.
+[EXECUTION][TIME:4380] Executed 16 in 5
+[EXECUTION][TIME:4380] Process has  9 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4380] Context switched to head of queue.
+[EXECUTION][TIME:4384] Executed 19 in 4
+[EXECUTION][TIME:4384] Completed following process, removed from queue.
+[EXECUTION][TIME:4389] Executed 29 in 5
+[EXECUTION][TIME:4389] Process has  31 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4389] Context switched to head of queue.
+[EXECUTION][TIME:4394] Executed 31 in 5
+[EXECUTION][TIME:4394] Process has  14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4394] Context switched to head of queue.
+[EXECUTION][TIME:4399] Executed 38 in 5
+[EXECUTION][TIME:4399] Process has  7 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4399] Context switched to head of queue.
+[EXECUTION][TIME:4404] Executed 42 in 5
+[EXECUTION][TIME:4404] Process has  1 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4404] Context switched to head of queue.
+[EXECUTION][TIME:4409] Executed 46 in 5
+[EXECUTION][TIME:4409] Process has  35 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4409] Context switched to head of queue.
+[EXECUTION][TIME:4414] Executed 49 in 5
+[EXECUTION][TIME:4414] Process has  18 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4414] Context switched to head of queue.
+[EXECUTION][TIME:4419] Executed 56 in 5
+[EXECUTION][TIME:4419] Process has  25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4419] Context switched to head of queue.
+[EXECUTION][TIME:4424] Executed 60 in 5
+[EXECUTION][TIME:4424] Completed following process, removed from queue.
+[EXECUTION][TIME:4429] Executed 62 in 5
+[EXECUTION][TIME:4429] Process has  3 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4429] Context switched to head of queue.
+[EXECUTION][TIME:4434] Executed 66 in 5
+[EXECUTION][TIME:4434] Process has  4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4434] Context switched to head of queue.
+[EXECUTION][TIME:4439] Executed 69 in 5
+[EXECUTION][TIME:4439] Process has  27 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4439] Context switched to head of queue.
+[EXECUTION][TIME:4444] Executed 78 in 5
+[EXECUTION][TIME:4444] Process has  15 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4444] Context switched to head of queue.
+[EXECUTION][TIME:4448] Executed 93 in 4
+[EXECUTION][TIME:4448] Completed following process, removed from queue.
+[EXECUTION][TIME:4450] Executed 3 in 2
+[EXECUTION][TIME:4450] Completed following process, removed from queue.
+[EXECUTION][TIME:4455] Executed 12 in 5
+[EXECUTION][TIME:4455] Completed following process, removed from queue.
+[EXECUTION][TIME:4460] Executed 13 in 5
+[EXECUTION][TIME:4460] Process has  6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:4460] Context switched to head of queue.
+[EXECUTION][TIME:4465] Executed 14 in 5
+[EXECUTION][TIME:4465] Proces
