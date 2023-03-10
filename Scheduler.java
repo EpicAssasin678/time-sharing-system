@@ -97,6 +97,7 @@ public class Scheduler {
             CSVOutputStream.add("processID,timeTaken,timeCompleted");
         };
         HashMap <String, ArrayList<Integer> > stats = new HashMap<>(); 
+        
         try {
             while (processQueue.size() != 0) {
                 SimProcess temp = processQueue.element();              
@@ -130,7 +131,7 @@ public class Scheduler {
 
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Process has  %d remaining ticks to complete, shuffled to bottom of queue.", totalTime, temp.ticksToComplete));
 
-                    processor.switchContext();
+                    totalTime += processor.switchContext();
 
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
                 } 
