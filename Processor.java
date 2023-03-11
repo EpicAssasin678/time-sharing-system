@@ -5,7 +5,7 @@ public class Processor {
     int cycleCompletion; 
     int systemClock;
 
-    int contextSwitchValue = 1;
+    int contextSwitchValue = 2;
 
     public Processor (int clockRate) {
         this.clockRate = clockRate;
@@ -34,7 +34,10 @@ public class Processor {
             process.ticksToComplete--;
             executionTime++;
             //if the process is already done, we break
-            if (process.ticksToComplete == 0) break;
+            if (process.ticksToComplete == 0) {
+                
+                break;
+            };
         }
         return executionTime;
     }
