@@ -4,8 +4,7 @@ import java.util.ArrayList;
 
 
 public class Main {
-    
-    
+      
     public static void writeToCSV (File CSVFile, ArrayList<String> toWrite) {
         try {
             PrintWriter pw = new PrintWriter(CSVFile);
@@ -20,10 +19,22 @@ public class Main {
 
 
     public static void main(String[] args) {
-        //load library 
-        Scheduler scheduler = new Scheduler(new File("./inputfile.csv"), new Processor(6, 5));     
-        scheduler.setCSVFlag(true);
-        scheduler.roundRobinExecute();
-        writeToCSV(new File("./csv_export.csv"), scheduler.CSVOutputStream);
+        Scheduler scheduler;
+        int[] timeSlices = {1, 2, 3, 5, 10, 15, 25, 40, 60, 100};
+
+        for (int timeSlice : timeSlices) {
+            scheduler = new Scheduler(new File("./input/inputfile_unsorted.csv"), new Processor(timeSlice, timeSlice));     
+            scheduler.setCSVFlag(true);
+            scheduler.roundRobinExecute();
+            writeToCSV(new File("./output/unsorted/" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+        }
+
+        for (int timeSlice : timeSlices) {
+            scheduler = new Scheduler(new File("./input/inputfile_sorted.csv"), new Processor(timeSlice, timeSlice));     
+            scheduler.setCSVFlag(true);
+            scheduler.roundRobinExecute();
+            writeToCSV(new File("./output/sorted/" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+        }
+
     }
 }
