@@ -16,14 +16,14 @@ import java.util.HashMap;
 public class Scheduler {
 
     //instance fields
-    public int totalTime = 0; 
+    public int totalTime = 0;
     public int totalProcesses = 0;
     public ArrayList<SimProcess> processList = new ArrayList<SimProcess>();
     public ProcessQueue processQueue = new ProcessQueue(processList);
     //processor instance
     public Processor processor;
-    
-    //data collection    
+
+    //data collection
     public File auditLog = new File("./auditLog.txt");
     public FileWriter logWriter;
     public boolean CSVFlag = false;
@@ -69,7 +69,7 @@ public class Scheduler {
         //read the processFile and store into an arraylist
         Scanner fileScanner = new Scanner(processFile);
         ArrayList<SimProcess> temp = new ArrayList<SimProcess>();
-        //seperate our file and enqueue our objects 
+        //seperate our file and enqueue our objects
         while(fileScanner.hasNext()) {
 
             String cur = fileScanner.nextLine();
@@ -77,7 +77,7 @@ public class Scheduler {
             processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
 
             logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + totalProcesses+1 + " alias: " 
-                                + values[0] + " processingTicks: " + values[1]);   
+                                + values[0] + " processingTicks: " + values[1]);
 
             totalProcesses++;
             //shouldn't need this
@@ -85,7 +85,7 @@ public class Scheduler {
         }
         fileScanner.close();
         return temp;
-    } 
+    }
 
     /**
      * algorthim
@@ -93,14 +93,14 @@ public class Scheduler {
     public void roundRobinExecute () {
 
         if (CSVFlag) {
-            CSVOutputStream.add("totalRuntime,timeSliceValue,contextSwitchValue"); 
+            CSVOutputStream.add("totalRuntime,timeSliceValue,contextSwitchValue");
             CSVOutputStream.add("processID,timeTaken,timeCompleted");
         };
-        HashMap <String, ArrayList<Integer> > stats = new HashMap<>(); 
+        HashMap <String, ArrayList<Integer> > stats = new HashMap<>();
         
         try {
             while (processQueue.size() != 0) {
-                SimProcess temp = processQueue.element();              
+                SimProcess temp = processQueue.element();
                 int timeTaken = processor.execute(temp);
                 //Check if we already, recorded the time the SimProcess already started
                 totalTime += timeTaken;
@@ -110,18 +110,18 @@ public class Scheduler {
                 }
                 
                 logWriter.write(String.format("\n[EXECUTION][TIME:%d] Executed %s in %d", totalTime, temp.processID, timeTaken));
-                //check if the process is finished 
+                //check if the process is finished
                 if (temp.ticksToComplete == 0) {
-
+                    
                     processQueue.remove();
                     
-                    if (CSVFlag) CSVOutputStream.add(String.format("%s, %d, %d", 
+                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d", 
                                 temp.processID, 
                                 totalTime - stats.get(temp.processID).get(0), 
                                 totalTime)
                             );
                     
-                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime));
+                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime)); 
                 }
 
                 //or if it needs to be requeued
@@ -129,19 +129,19 @@ public class Scheduler {
 
                     processQueue.shuffleToBottom();
 
-                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Process has  %d remaining ticks to complete, shuffled to bottom of queue.", totalTime, temp.ticksToComplete));
+                    logWriter.write(String.format("\n[EXECUTION][TIME:%d] Process has %d remaining ticks to complete, shuffled to bottom of queue.", totalTime, temp.ticksToComplete));
 
                     totalTime += processor.switchContext();
 
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
-                } 
+                }
             }
         } catch (Exception e) {
             e.printStackTrace();
         }
 
         if (CSVFlag) this.CSVOutputStream.add(1, String.format("%d,%d,%d", totalTime, processor.timeSlice, processor.contextSwitchValue));
-        System.out.println(stats);
+        //System.out.println(stats);
         System.out.println(CSVOutputStream);
     }
 
@@ -155,8 +155,8 @@ public class Scheduler {
     }
 
     public static void main(String[] args) {
-        //load library 
-        Scheduler scheduler = new Scheduler(new File("./inputfile.csv"), new Processor(6, 5));        
+        //load library
+        Scheduler scheduler = new Scheduler(new File("./inputfile.csv"), new Processor(6, 5));
         scheduler.roundRobinExecute();
     }
 }
