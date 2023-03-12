@@ -119,7 +119,7 @@ public class Scheduler {
                 if (!( stats.containsKey(temp.processID))) {
                     stats.put(temp.processID, new ArrayList<>(2));
                     stats.get(temp.processID).add(totalTime - timeTaken);
-                    totalProcessTime += temp.ticksToComplete;
+                    totalProcessTime += temp.processTime;
                 }
                 
                 logWriter.write(String.format("\n[EXECUTION][TIME:%d] Executed %s in %d", totalTime, temp.processID, timeTaken));
@@ -132,10 +132,12 @@ public class Scheduler {
                     if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d", 
                                 temp.processID, 
                                 temp.processTime,
-                                timeCompleted, 
-                                timeCompleted - temp.processTime,
+                                totalTime, 
+                                stats.get(temp.processID).get(0),
                                 timeSlices)
                             );
+                    
+                    
                     
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime)); 
                 }
