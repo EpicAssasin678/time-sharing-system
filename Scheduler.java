@@ -133,7 +133,7 @@ public class Scheduler {
                                 temp.processID, 
                                 temp.processTime,
                                 timeCompleted, 
-                                timeCompleted - temp.ticksToComplete,
+                                timeCompleted - temp.processTime,
                                 timeSlices)
                             );
                     
