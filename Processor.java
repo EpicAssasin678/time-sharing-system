@@ -1,4 +1,8 @@
+import java.util.HashMap;
+
 public class Processor {
+
+    
 
     int clockRate;
     int timeSlice;
@@ -6,6 +10,10 @@ public class Processor {
     int systemClock;
 
     int contextSwitchValue = 2;
+
+
+    //processor statistics 
+    public HashMap<String, int[]> processStatistics = new HashMap<>();
 
     public Processor (int clockRate) {
         this.clockRate = clockRate;
@@ -22,11 +30,18 @@ public class Processor {
         this.systemClock = systemClock;
     }
 
+    /**
+     * totalProcessTime, totalTimeSlices
+     * processTime, timeWaiting, timeSlicesToCompleted
+     * @param args
+     */
     public void linkProcessorStatistics(int[] args) {
 
     }
 
     public int execute (SimProcess process) {
+        
+
         int executionTime = 0;
         for (int i = executionTime; i < timeSlice; i++) {
             cycleCompletion = (cycleCompletion + 1)%clockRate;
@@ -35,10 +50,11 @@ public class Processor {
             executionTime++;
             //if the process is already done, we break
             if (process.ticksToComplete == 0) {
-                
                 break;
             };
         }
+
+        //timeSlice has concluded
         return executionTime;
     }
 
@@ -49,6 +65,8 @@ public class Processor {
     public int switchContext () {
         return contextSwitchValue;
     }
+
+
 
 }
 

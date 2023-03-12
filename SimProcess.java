@@ -3,6 +3,7 @@ public class SimProcess {
     public int timeSlice;
     public int PID, priority, threadID;
     public String processID;
+    public int processTime;
     public int ticksToComplete;
 
     //for data collection
@@ -35,6 +36,8 @@ public class SimProcess {
         this.PID = PID;
         this.processID = processID;
         this.ticksToComplete = ticksToComplete;
+
+        this.processTime = this.ticksToComplete;
         this.processState = State.SUSPENDED;
     }
 
@@ -43,6 +46,8 @@ public class SimProcess {
         this.processID = processID;
         this.timeSlice = timeSlice;
         this.ticksToComplete = ticksToComplete;
+        
+        this.processTime = this.ticksToComplete;
         this.processState = State.SUSPENDED;
     }
 

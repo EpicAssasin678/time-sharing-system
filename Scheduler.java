@@ -29,6 +29,9 @@ public class Scheduler {
     public boolean CSVFlag = false;
     public ArrayList<String> CSVOutputStream = new ArrayList<String>();
 
+    //statistics by process: processTime, timeWaiting, timeSlicesToCompleted
+    public HashMap<String, int[]> processStatistics = new HashMap<>();
+
 
     public Scheduler () {
 
@@ -93,13 +96,22 @@ public class Scheduler {
     public void roundRobinExecute () {
 
         if (CSVFlag) {
-            CSVOutputStream.add("totalRuntime,timeSliceValue,contextSwitchValue");
-            CSVOutputStream.add("processID,timeTaken,timeCompleted");
+            CSVOutputStream.add("totalRuntime,totalProcessTime,timeSliceValue,contextSwitchValue,slicesRequired,");
+            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken");
         };
+
+        
         HashMap <String, ArrayList<Integer> > stats = new HashMap<>();
+        int timeSlices = 0;
+        int totalProcessTime = 0;
+        
         
         try {
             while (processQueue.size() != 0) {
+                timeSlices++;
+                //Add the value of context switching each time after loading the process
+                totalTime += processor.switchContext();
+
                 SimProcess temp = processQueue.element();
                 int timeTaken = processor.execute(temp);
                 //Check if we already, recorded the time the SimProcess already started
@@ -107,6 +119,7 @@ public class Scheduler {
                 if (!( stats.containsKey(temp.processID))) {
                     stats.put(temp.processID, new ArrayList<>(2));
                     stats.get(temp.processID).add(totalTime - timeTaken);
+                    totalProcessTime += temp.ticksToComplete;
                 }
                 
                 logWriter.write(String.format("\n[EXECUTION][TIME:%d] Executed %s in %d", totalTime, temp.processID, timeTaken));
@@ -114,24 +127,26 @@ public class Scheduler {
                 if (temp.ticksToComplete == 0) {
                     
                     processQueue.remove();
-                    
-                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d", 
+                    int timeCompleted = totalTime - stats.get(temp.processID).get(0);
+                    //processID, , totalTime, timeTaken, timeSlicesRequired
+                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d", 
                                 temp.processID, 
-                                totalTime - stats.get(temp.processID).get(0), 
-                                totalTime)
+                                temp.processTime,
+                                timeCompleted, 
+                                timeCompleted - temp.ticksToComplete,
+                                timeSlices)
                             );
                     
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Completed following process, removed from queue.", totalTime)); 
                 }
-
+                
                 //or if it needs to be requeued
                 else if (temp.ticksToComplete > 0) {
-
+                    
                     processQueue.shuffleToBottom();
 
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Process has %d remaining ticks to complete, shuffled to bottom of queue.", totalTime, temp.ticksToComplete));
 
-                    totalTime += processor.switchContext();
 
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
                 }
@@ -140,7 +155,15 @@ public class Scheduler {
             e.printStackTrace();
         }
 
-        if (CSVFlag) this.CSVOutputStream.add(1, String.format("%d,%d,%d", totalTime, processor.timeSlice, processor.contextSwitchValue));
+        
+        //totalRuntime,totalProcessTime,timeSliceValue,contextSwitchValue,slicesRequired
+        if (CSVFlag) this.CSVOutputStream.add(1, String.format("%d,%d,%d,%d,%d", 
+                totalTime, 
+                totalProcessTime,
+                processor.timeSlice, 
+                processor.contextSwitchValue, 
+                timeSlices));
+        
         //System.out.println(stats);
         System.out.println(CSVOutputStream);
     }
