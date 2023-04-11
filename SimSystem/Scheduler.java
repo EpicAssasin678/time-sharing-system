@@ -1,9 +1,13 @@
+package SimSystem;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Queue;
 import java.util.Scanner;
+
+import Structures.ProcessQueue.ProcessQueue;
+
 import java.io.FileWriter;
 import java.util.HashMap;
 
@@ -77,14 +81,14 @@ public class Scheduler {
 
             String cur = fileScanner.nextLine();
             String[] values = cur.split(",");
-            processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]) );
+            if (values.length  >  3) processQueue.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0], Integer.parseInt(values[2]) ) );
 
             logWriter.write("\n[INITIALIZING] Loaded process to queue. PID: " + totalProcesses+1 + " alias: " 
                                 + values[0] + " processingTicks: " + values[1]);
 
             totalProcesses++;
             //shouldn't need this
-            temp.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0]));
+            temp.add( new SimProcess(totalProcesses+1, Integer.parseInt(values[1]), values[0], Integer.parseInt(values[2]) ));
         }
         fileScanner.close();
         return temp;

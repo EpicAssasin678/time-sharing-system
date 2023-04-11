@@ -1,6 +1,10 @@
+package Structures.ProcessQueue;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.Queue;
+
+import SimSystem.SimProcess;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -41,17 +45,17 @@ public class ProcessQueue implements Queue{
 
     @Override
     public Iterator iterator() {
-        throw new UnsupportedOperationException("Unimplemented method 'iterator'");
+        return this.processList.iterator();
     }
 
     @Override
     public Object[] toArray() {
-        throw new UnsupportedOperationException("Unimplemented method 'toArray'");
+        return this.processList.toArray();
     }
 
     @Override
     public Object[] toArray(Object[] a) {
-        throw new UnsupportedOperationException("Unimplemented method 'toArray'");
+        return this.processList.toArray(a);
     }
 
     @Override
@@ -145,4 +149,6 @@ public class ProcessQueue implements Queue{
         }
     }
     
+
+  
 }

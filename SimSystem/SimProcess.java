@@ -1,3 +1,8 @@
+package SimSystem;
+/**
+ * @author Zachery Uporsky
+ * @apiNote Processes now use a priority of 0 as base unless constructed otherwise
+ */
 public class SimProcess {
     
     public int timeSlice;
@@ -5,9 +10,12 @@ public class SimProcess {
     public String processID;
     public int processTime;
     public int ticksToComplete;
+    
 
     //for data collection
     public int timeTakenToFinish;
+
+    public int timeHanging = 0;
 
     public enum State {
         FINISHED,
@@ -22,6 +30,7 @@ public class SimProcess {
         this.PID = PID;
         this.processID = "process." + Math.random() * 10 + Math.random() * 10; 
         this.processState = State.SUSPENDED;
+        this.priority = 0;
     }
 
     //Main object constructor, should be used always 
@@ -30,15 +39,17 @@ public class SimProcess {
         this.processID = processID;
         this.timeSlice = findOptimalTimeSlice();
         this.processState = State.SUSPENDED;
+        this.priority = 0;
     }
 
-    public SimProcess (int PID, int ticksToComplete, String processID) {
+    public SimProcess (int PID, int ticksToComplete, String processID, int priority) {
         this.PID = PID;
         this.processID = processID;
         this.ticksToComplete = ticksToComplete;
 
         this.processTime = this.ticksToComplete;
         this.processState = State.SUSPENDED;
+        this.priority = 0;
     }
 
     public SimProcess (int PID, int timeSlice, int ticksToComplete, String processID) {
@@ -49,7 +60,10 @@ public class SimProcess {
         
         this.processTime = this.ticksToComplete;
         this.processState = State.SUSPENDED;
+        this.priority = 0;
     }
+
+    
 
     public void setTicksToComplete (int cur) {
         this.ticksToComplete = cur;
@@ -62,6 +76,15 @@ public class SimProcess {
     public int findOptimalTimeSlice () {
         return (int) Math.random();
     }
+
+    public void increaseTimeHanging (int time) {
+        this.timeHanging += time;
+    }
+
+    public int getTimeHangin () {
+        return this.timeHanging;
+    }
+    
 
 
     public static void main(String[] args) {

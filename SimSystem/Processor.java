@@ -1,13 +1,16 @@
+package SimSystem;
 import java.util.HashMap;
 
 public class Processor {
 
     
-
+    //instance fields
     int clockRate;
     int timeSlice;
     int cycleCompletion; 
     int systemClock;
+
+    //priority
 
     int contextSwitchValue = 2;
 
@@ -28,6 +31,7 @@ public class Processor {
         this.clockRate = clockRate;
         this.timeSlice = timeSlice;
         this.systemClock = systemClock;
+        
     }
 
     /**
