@@ -17,22 +17,24 @@ import Structures.PriorityQueue.PriorityQueueItem;
  */
 public class PriorityQueue extends ProcessQueue {
 
-    public ArrayList<PriorityQueueItem> priorityMap;
+    public ArrayList<PriorityQueueItem> priorityList;
 
     public Consumer<PriorityQueueItem> compareAction;
     
     public PriorityQueue () {
         super();
-        this.priorityMap = new ArrayList<PriorityQueueItem>();
+        this.priorityList = new ArrayList<PriorityQueueItem>();
     }
     
     public PriorityQueue (ArrayList<SimProcess> processList) {
         super(processList);
+        //add each process to the priority map
         for (SimProcess process : processList) {
-            this.priorityMap.add(new PriorityQueueItem(process));
+            this.priorityList.add(new PriorityQueueItem(process));
         }
     }
 
+    
     public void insert (SimProcess process) {
         this.add(new PriorityQueueItem(process));
     }
@@ -41,14 +43,81 @@ public class PriorityQueue extends ProcessQueue {
     public boolean add (Object process) {
         try {
             this.add(new PriorityQueueItem( (SimProcess) process));
-            priorityMap.add(new PriorityQueueItem( (SimProcess) process));
-            priorityMap.sort( (a, b) -> a.process.priority - b.process.priority);
+            priorityList.add(new PriorityQueueItem( (SimProcess) process));
+            priorityList.sort( (a, b) -> a.process.priority - b.process.priority);
             return true;
         } catch (Exception e) {
             return false;
         }
     }
 
+    /**
+     * Returns the process from the priority list at the specified index.
+     * Note: Eventually may need to change this to the super if super ordering changes.
+     * @param index
+     * @return
+     */
+    public SimProcess get (int index) {
+        return this.priorityList.get(index).process;
+    }
+
+    @Override 
+    public SimProcess element () {
+        return this.priorityList.get(0).process;
+    }
+
+    @Override
+    public SimProcess peek () {
+        return (priorityList.size() == 0) ? null : priorityList.get(0).process;
+    }
+
+    @Override 
+    public SimProcess remove() {
+        super.remove();
+        return this.priorityList.remove(0).process;
+    }
+
+    @Override
+    public SimProcess remove(int index) {
+        super.remove(index);
+        return this.priorityList.remove(index).process;
+    }
+
+    @Override
+    public boolean shuffleToBottom() {
+        try {
+            //maintain the priority by using the instance add method
+            super.shuffleToBottom();
+            this.add(this.remove());
+            return true;   
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
+    @Override
+    public boolean shuffleToBottom(int index) {
+        try {
+            //maintain the priority by using the instance add method
+            super.shuffleToBottom(index);
+            this.add(this.remove(index));
+            return true;
+        } catch (Exception e) {
+            return false;
+        }
+    }
+
+    public ArrayList<PriorityQueueItem> getPriorityList () {
+        return this.priorityList;
+    }
+
+    public String printPriorityList () {
+        String temp = "";
+        for (PriorityQueueItem item : this.priorityList) {
+            temp.concat(String.format("PID: %d : Priority: %d", item.process.PID, item.process.priority));
+        }
+        return temp;
+    }
 
 }
 
@@ -74,19 +143,19 @@ import Structures.PriorityQueue.PriorityQueueItem;
 /*
 public class PriorityQueue extends ProcessQueue {
 
-    public ArrayList<PriorityQueueItem> priorityMap;
+    public ArrayList<PriorityQueueItem> priorityList;
 
     public Consumer<PriorityQueueItem> compareAction;
     
     public PriorityQueue () {
         super();
-        this.priorityMap = new ArrayList<PriorityQueueItem>();
+        this.priorityList = new ArrayList<PriorityQueueItem>();
     }
     
     public PriorityQueue (ArrayList<SimProcess> processList) {
         super(processList);
         for (SimProcess process : processList) {
-            this.priorityMap.add(new PriorityQueueItem(process));
+            this.priorityList.add(new PriorityQueueItem(process));
         }
     }
 
@@ -98,8 +167,8 @@ public class PriorityQueue extends ProcessQueue {
     public boolean add (Object process) {
         try {
             this.add(new PriorityQueueItem( (SimProcess) process));
-            priorityMap.add(new PriorityQueueItem( (SimProcess) process));
-            priorityMap.sort( (a, b) -> a.process.priority - b.process.priority);
+            priorityList.add(new PriorityQueueItem( (SimProcess) process));
+            priorityList.sort( (a, b) -> a.process.priority - b.process.priority);
             return true;
         } catch (Exception e) {
             return false;

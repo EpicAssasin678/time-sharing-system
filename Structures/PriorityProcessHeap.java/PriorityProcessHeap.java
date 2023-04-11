@@ -75,5 +75,25 @@ public class PriorityProcessHeap  {
     public SimProcess getRoot () {
         return this.root.process;
     }
+
+    public SimProcess changeKey (SimProcess process, int newPriority) {
+        PriorityProcessHeapNode tmp = this.root;
+        if (tmp == null) {
+            System.out.println("Empty heap");
+            return null;
+        }
+        do {
+            if (tmp.process == process) {
+                tmp.process.priority = newPriority;
+                if (tmp.process.priority < this.root.process.priority) {
+                    this.root = tmp;
+                }
+                return tmp.process;
+            }
+            tmp = tmp.right;
+        } while (tmp != this.root);
+        return null;
+    }
+    
     
 }
