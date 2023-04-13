@@ -25,19 +25,27 @@ public class Main {
         int[] timeSlices = {1, 2, 3, 5, 10, 15, 25, 50};
 
         for (int timeSlice : timeSlices) {
-            scheduler = new Scheduler(new File("./input/inputfile_unsorted.csv"), new Processor(timeSlice, timeSlice));     
-            scheduler.setCSVFlag(true);
-            //scheduler.roundRobinExecute();
-            scheduler.priorityExecute();
-            writeToCSV(new File("./output/unsorted_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
-        }
-
-        for (int timeSlice : timeSlices) {
             scheduler = new Scheduler(new File("./input/inputfile_sorted.csv"), new Processor(timeSlice, timeSlice));     
             scheduler.setCSVFlag(true);
             //scheduler.roundRobinExecute();
             scheduler.priorityExecute();
-            writeToCSV(new File("./output/sorted_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+            writeToCSV(new File("./output/sorted/sorted_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+        }
+        
+        for (int timeSlice : timeSlices) {
+            scheduler = new Scheduler(new File("./input/inputfile_unsorted.csv"), new Processor(timeSlice, timeSlice));     
+            scheduler.setCSVFlag(true);
+            //scheduler.roundRobinExecute();
+            scheduler.priorityExecute();
+            writeToCSV(new File("./output/unsorted/unsorted_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+        }
+        
+        for (int timeSlice : timeSlices) {
+            scheduler = new Scheduler(new File("./input/inputfile_unsorted_priority.csv"), new Processor(timeSlice, timeSlice));     
+            scheduler.setCSVFlag(true);
+            //scheduler.roundRobinExecute();
+            scheduler.priorityExecute();
+            writeToCSV(new File("./output/unsorted_priority/unsorted_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
         }
 
     }
