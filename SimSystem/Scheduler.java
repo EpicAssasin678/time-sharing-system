@@ -25,6 +25,7 @@ public class Scheduler {
     public ArrayList<SimProcess> processList = new ArrayList<SimProcess>();
     //public ProcessQueue processQueue = new ProcessQueue(processList);
     public PriorityQueue processQueue = new PriorityQueue(processList);
+    public PriorityQueue dummy = new PriorityQueue();
     //processor instance
     public Processor processor;
 

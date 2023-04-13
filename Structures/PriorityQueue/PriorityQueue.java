@@ -17,10 +17,13 @@ import Structures.PriorityQueue.PriorityQueueItem;
  */
 public class PriorityQueue extends ProcessQueue {
 
+
     public ArrayList<PriorityQueueItem> priorityList;
 
     public Consumer<PriorityQueueItem> compareAction;
     
+    public ArrayList<PriorityQueueItem> priorityListCopy;
+
     public PriorityQueue () {
         super();
         this.priorityList = new ArrayList<PriorityQueueItem>();
@@ -30,7 +33,8 @@ public class PriorityQueue extends ProcessQueue {
         super(processList);
         //add each process to the priority map
         for (SimProcess process : processList) {
-            this.priorityList.add(new PriorityQueueItem(process));
+            //this.priorityList.add(new PriorityQueueItem(process));
+            this.add(process);
         }
     }
 
@@ -42,7 +46,6 @@ public class PriorityQueue extends ProcessQueue {
     @Override
     public boolean add (Object process) {
         try {
-            this.add(new PriorityQueueItem( (SimProcess) process));
             priorityList.add(new PriorityQueueItem( (SimProcess) process));
             priorityList.sort( (a, b) -> a.process.priority - b.process.priority);
             return true;
@@ -59,6 +62,11 @@ public class PriorityQueue extends ProcessQueue {
      */
     public SimProcess get (int index) {
         return this.priorityList.get(index).process;
+    }
+
+    @Override
+    public int size () {
+        return this.priorityList.size();
     }
 
     @Override 
@@ -94,6 +102,7 @@ public class PriorityQueue extends ProcessQueue {
             return false;
         }
     }
+
 
     @Override
     public boolean shuffleToBottom(int index) {
