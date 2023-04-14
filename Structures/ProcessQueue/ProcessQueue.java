@@ -1,6 +1,10 @@
+package Structures.ProcessQueue;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.Queue;
+
+import SimSystem.SimProcess;
+
 import java.util.List;
 import java.util.ArrayList;
 
@@ -41,22 +45,26 @@ public class ProcessQueue implements Queue{
 
     @Override
     public Iterator iterator() {
-        throw new UnsupportedOperationException("Unimplemented method 'iterator'");
+        return this.processList.iterator();
     }
 
     @Override
     public Object[] toArray() {
-        throw new UnsupportedOperationException("Unimplemented method 'toArray'");
+        return this.processList.toArray();
     }
 
     @Override
     public Object[] toArray(Object[] a) {
-        throw new UnsupportedOperationException("Unimplemented method 'toArray'");
+        return this.processList.toArray(a);
     }
 
     @Override
     public boolean remove(Object o) {
         throw new UnsupportedOperationException("Unimplemented method 'remove'");
+    }
+
+    public SimProcess remove(int index) {
+        return this.processList.remove(index);
     }
     
     @Override
@@ -127,6 +135,10 @@ public class ProcessQueue implements Queue{
         return (processList.size() == 0) ? null : processList.get(0);
     }
     
+    /**
+     * Removes the head of the queue and adds that element to the end.
+     * @return true if successful, false if not
+     */
     public boolean shuffleToBottom() {
         try {
             processList.add(processList.remove(0));
@@ -136,6 +148,10 @@ public class ProcessQueue implements Queue{
         }
     }
     
+    /**
+     * Removes an element at a specified position and appends it to the end of the queue.
+     * @return true if successful, false if not
+     */
     public boolean shuffleToBottom(int index) {
         try {
             processList.add(processList.remove(index));
@@ -145,4 +161,14 @@ public class ProcessQueue implements Queue{
         }
     }
     
+
+    /**
+     * Sorts the queue with priority 
+     * @apiNote This method isn't supposed to be used, instead use the priorityQueue class instead.
+     */
+    public void sortWithPriority () {
+        this.processList.sort((a, b) -> a.priority - b.priority);
+    }
+
+  
 }
