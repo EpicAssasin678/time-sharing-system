@@ -1,6 +1,9 @@
 package SimSystem;
 import java.util.HashMap;
 
+/**
+ * @author Zachery Uporsky
+ */
 public class Processor {
 
     

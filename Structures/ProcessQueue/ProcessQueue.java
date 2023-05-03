@@ -170,5 +170,10 @@ public class ProcessQueue implements Queue{
         this.processList.sort((a, b) -> a.priority - b.priority);
     }
 
+    public void SRTSort () {
+        this.processList.sort((a, b) -> b.ticksToComplete - a.ticksToComplete);
+    }
+
   
+    
 }

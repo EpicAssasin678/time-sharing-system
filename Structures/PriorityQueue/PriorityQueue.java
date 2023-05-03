@@ -49,7 +49,7 @@ public class PriorityQueue extends ProcessQueue {
         try {
             super.add(process);
             priorityList.add(new PriorityQueueItem( (SimProcess) process));
-            priorityList.sort( (a, b) -> a.process.priority - b.process.priority);
+            priorityList.sort( (a, b) -> b.process.priority - a.process.priority);
             return true;
         } catch (Exception e) {
             return false;

@@ -48,5 +48,13 @@ public class Main {
             writeToCSV(new File("./output/unsorted_priority/unsorted_priority_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
         }
 
+        for (int timeSlice : timeSlices) {
+            scheduler = new Scheduler(new File("./input/inputfile_sorted_priority.csv"), new Processor(timeSlice, timeSlice));     
+            scheduler.setCSVFlag(true);
+            //scheduler.roundRobinExecute();
+            scheduler.SRTExecute();
+            writeToCSV(new File("./output/sorted_priority/sorted_priority_" + timeSlice + ".csv"), scheduler.CSVOutputStream);
+        }
+
     }
 }
