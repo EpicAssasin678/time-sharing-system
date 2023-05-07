@@ -81,7 +81,7 @@ public class SimProcess {
         this.timeHanging += time;
     }
 
-    public int getTimeHangin () {
+    public int getTimeHanging () {
         return this.timeHanging;
     }
     

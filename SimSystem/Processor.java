@@ -14,7 +14,6 @@ public class Processor {
     int systemClock;
 
     //priority
-
     int contextSwitchValue = 2;
 
 
@@ -51,7 +50,7 @@ public class Processor {
 
         int executionTime = 0;
         for (int i = executionTime; i < timeSlice; i++) {
-            cycleCompletion = (cycleCompletion + 1)%clockRate;
+            cycleCompletion = (cycleCompletion + 1) % clockRate;
             //((cycleCompletion + 1)%clockRate > 0) ? cycleCompletion += 1 : cycleCompletion = 1;
             process.ticksToComplete--;
             executionTime++;

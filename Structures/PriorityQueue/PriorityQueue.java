@@ -1,5 +1,6 @@
 package Structures.PriorityQueue;
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.function.Consumer;
 
 import SimSystem.SimProcess;
@@ -130,6 +131,17 @@ public class PriorityQueue extends ProcessQueue {
         }
         return temp;
     }
+
+    public void SRTSort () {
+        this.priorityList.sort((a, b) -> b.process.ticksToComplete - a.process.ticksToComplete);
+    }
+
+    /**
+     *  Sorts the queue with a custom method for sorting. 
+     */
+    public void sort(Comparator<PriorityQueueItem> comparator) {
+        this.priorityList.sort(comparator);
+    }
     
 
     public static void main(String[] args) {
@@ -141,6 +153,8 @@ public class PriorityQueue extends ProcessQueue {
 
         System.out.println(test.size());
     }
+
+    
 }
 
 

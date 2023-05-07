@@ -1,5 +1,6 @@
 package Structures.ProcessQueue;
 import java.util.Collection;
+import java.util.Comparator;
 import java.util.Iterator;
 import java.util.Queue;
 
@@ -8,9 +9,10 @@ import SimSystem.SimProcess;
 import java.util.List;
 import java.util.ArrayList;
 
-public class ProcessQueue implements Queue{
+public class ProcessQueue implements Queue {
 
     private ArrayList<SimProcess> processList;
+    private Comparator<SimProcess> compareAction;
 
     public ProcessQueue () {
         this.processList = new ArrayList<SimProcess>();
@@ -174,6 +176,8 @@ public class ProcessQueue implements Queue{
         this.processList.sort((a, b) -> b.ticksToComplete - a.ticksToComplete);
     }
 
-  
+    public static void main(String[] args) {
+        
+    }
     
 }

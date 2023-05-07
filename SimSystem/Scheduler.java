@@ -134,13 +134,20 @@ public class Scheduler {
                     processQueue.remove();
                     int timeCompleted = totalTime - stats.get(temp.processID).get(0);
                     //processID, , totalTime, timeTaken, timeSlicesRequired
-                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d", 
-                                temp.processID,
-                                temp.priority, 
+                    double TAT = (totalTime * 1.0); //turnaround time 
+                    double NTAT = TAT / (temp.processTime * 1.0000); //normalized turnaround time
+                    //NTAT = TAT / processor.timeSlice;
+                    
+
+                    //processID, processTime, timeCompleted, timeWaiting, slicesTaken, TAT, NTAT
+                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d,%.2f,%.2f", 
+                                temp.processID, 
                                 temp.processTime,
                                 totalTime, 
                                 stats.get(temp.processID).get(0),
-                                timeSlices)
+                                timeSlices,
+                                TAT,
+                                NTAT)
                             );
                     
 
@@ -180,7 +187,7 @@ public class Scheduler {
     public void priorityExecute () {
         if (CSVFlag) {
             CSVOutputStream.add("totalRuntime,totalProcessTime,timeSliceValue,contextSwitchValue,slicesRequired,");
-            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken");
+            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken,TAT,NTAT");
         };
 
         HashMap <String, ArrayList<Integer> > stats = new HashMap<>();
@@ -210,12 +217,20 @@ public class Scheduler {
                     processQueue.remove();
                     int timeCompleted = totalTime - stats.get(temp.processID).get(0);
                     //processID, , totalTime, timeTaken, timeSlicesRequired
-                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d", 
+                    double TAT = (totalTime * 1.0); //turnaround time 
+                    double NTAT = TAT / (temp.processTime * 1.0000); //normalized turnaround time
+                    //NTAT = TAT / processor.timeSlice;
+                    
+
+                    //processID, processTime, timeCompleted, timeWaiting, slicesTaken, TAT, NTAT
+                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d,%.2f,%.2f", 
                                 temp.processID, 
                                 temp.processTime,
                                 totalTime, 
                                 stats.get(temp.processID).get(0),
-                                timeSlices)
+                                timeSlices,
+                                TAT,
+                                NTAT)
                             );
                     
 
@@ -251,9 +266,10 @@ public class Scheduler {
 
 
     public void SRTExecute () {
+        //add TAT and NTAT
         if (CSVFlag) {
             CSVOutputStream.add("totalRuntime,totalProcessTime,timeSliceValue,contextSwitchValue,slicesRequired,");
-            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken");
+            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken,TAT,NTAT");
         };
 
         HashMap < String, ArrayList<Integer> > stats = new HashMap<>();
@@ -262,14 +278,18 @@ public class Scheduler {
         
         try {
             while (processQueue.size() != 0) {
+                processQueue.sort((a, b) -> a.ref().ticksToComplete - b.ref().ticksToComplete);
+                
                 timeSlices++;
                 //Add the value of context switching each time after loading the process
                 totalTime += processor.switchContext();
 
                 SimProcess temp = processQueue.element();
-                int timeTaken = processor.execute(temp);
+                int timeTaken = processor.execute(temp); 
+
                 //Check if we already, recorded the time the SimProcess already started
                 totalTime += timeTaken;
+                
                 if (!( stats.containsKey(temp.processID))) {
                     stats.put(temp.processID, new ArrayList<>(2));
                     stats.get(temp.processID).add(totalTime - timeTaken);
@@ -281,14 +301,21 @@ public class Scheduler {
                 if (temp.ticksToComplete == 0) {
                     
                     processQueue.remove();
-                    int timeCompleted = totalTime - stats.get(temp.processID).get(0);
-                    //processID, , totalTime, timeTaken, timeSlicesRequired
-                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d", 
+
+                    double TAT = (totalTime * 1.0); //turnaround time 
+                    double NTAT = TAT / (temp.processTime * 1.0000); //normalized turnaround time
+                    //NTAT = TAT / processor.timeSlice;
+                    
+
+                    //processID, processTime, timeCompleted, timeWaiting, slicesTaken, TAT, NTAT
+                    if (CSVFlag) CSVOutputStream.add(String.format("%s,%d,%d,%d,%d,%.2f,%.2f", 
                                 temp.processID, 
                                 temp.processTime,
                                 totalTime, 
                                 stats.get(temp.processID).get(0),
-                                timeSlices)
+                                timeSlices,
+                                TAT,
+                                NTAT)
                             );
                     
 
