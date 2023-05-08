@@ -44,6 +44,7 @@ public class Scheduler {
     }
 
     public Scheduler (File processFile) {
+
         try {
             this.logWriter = new FileWriter(auditLog);
             processList = this.readProcessFile(processFile);
@@ -57,6 +58,7 @@ public class Scheduler {
     }
 
     public Scheduler (File processFile, Processor processor) {
+
         try {
             this.logWriter = new FileWriter(auditLog);
             processList = this.readProcessFile(processFile);
@@ -104,7 +106,8 @@ public class Scheduler {
 
         if (CSVFlag) {
             CSVOutputStream.add("totalRuntime,totalProcessTime,timeSliceValue,contextSwitchValue,slicesRequired,");
-            CSVOutputStream.add("processID, priority, processTime,timeCompleted,timeWaiting,slicesTaken");
+            CSVOutputStream.add("processID,processTime,timeCompleted,timeWaiting,slicesTaken,TAT,NTAT");
+
         };
 
         HashMap <String, ArrayList<Integer> > stats = new HashMap<>();
@@ -163,6 +166,7 @@ public class Scheduler {
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
                 }
             }
+            logWriter.flush();
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -196,6 +200,7 @@ public class Scheduler {
         
         try {
             while (processQueue.size() != 0) {
+                processQueue.sort( (a, b) -> a.ref().priority - b.ref().priority);
                 timeSlices++;
                 //Add the value of context switching each time after loading the process
                 totalTime += processor.switchContext();
@@ -246,6 +251,7 @@ public class Scheduler {
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
                 }
             }
+            logWriter.flush();
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -260,6 +266,7 @@ public class Scheduler {
                 timeSlices));
         
         //System.out.println(stats);
+        
         System.out.println(CSVOutputStream);
 
     }
@@ -331,6 +338,7 @@ public class Scheduler {
                     logWriter.write(String.format("\n[EXECUTION][TIME:%d] Context switched to head of queue.", totalTime));
                 }
             }
+            logWriter.flush();
         } catch (Exception e) {
             e.printStackTrace();
         }

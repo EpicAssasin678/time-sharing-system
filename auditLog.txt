@@ -1,0 +1,104 @@
+
+[INITIALIZING] Processing input file.
+[INITIALIZING] Loaded process to queue. PID: 01 alias: 1 processingTicks: 32 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 11 alias: 2 processingTicks: 49 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 21 alias: 3 processingTicks: 27 priority: 1
+[INITIALIZING] Loaded process to queue. PID: 31 alias: 4 processingTicks: 56 priority: 1
+[INITIALIZING] Loaded process to queue. PID: 41 alias: 5 processingTicks: 60 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 51 alias: 6 processingTicks: 50 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 61 alias: 7 processingTicks: 48 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 71 alias: 8 processingTicks: 47 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 81 alias: 9 processingTicks: 8 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 91 alias: 10 processingTicks: 42 priority: 1
+[INITIALIZING] Loaded process to queue. PID: 101 alias: 11 processingTicks: 75 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 111 alias: 12 processingTicks: 2 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 121 alias: 13 processingTicks: 64 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 131 alias: 14 processingTicks: 3 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 141 alias: 15 processingTicks: 36 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 151 alias: 16 processingTicks: 54 priority: 1
+[INITIALIZING] Loaded process to queue. PID: 161 alias: 17 processingTicks: 5 priority: 1
+[INITIALIZING] Loaded process to queue. PID: 171 alias: 18 processingTicks: 10 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 181 alias: 19 processingTicks: 1 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 191 alias: 20 processingTicks: 100 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 201 alias: 21 processingTicks: 80 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 211 alias: 22 processingTicks: 45 priority: 3
+[INITIALIZING] Loaded process to queue. PID: 221 alias: 23 processingTicks: 24 priority: 4
+[INITIALIZING] Loaded process to queue. PID: 231 alias: 24 processingTicks: 40 priority: 2
+[INITIALIZING] Loaded process to queue. PID: 241 alias: 25 processingTicks: 52 priority: 1
+[INITIALIZING] Scheduler created, using processor with following properties. 
+Clockrate: 50
+Quantum: 50
+[EXECUTION][TIME:3] Executed 19 in 1
+[EXECUTION][TIME:3] Completed following process, removed from queue.
+[EXECUTION][TIME:7] Executed 12 in 2
+[EXECUTION][TIME:7] Completed following process, removed from queue.
+[EXECUTION][TIME:12] Executed 14 in 3
+[EXECUTION][TIME:12] Completed following process, removed from queue.
+[EXECUTION][TIME:19] Executed 17 in 5
+[EXECUTION][TIME:19] Completed following process, removed from queue.
+[EXECUTION][TIME:29] Executed 9 in 8
+[EXECUTION][TIME:29] Completed following process, removed from queue.
+[EXECUTION][TIME:41] Executed 18 in 10
+[EXECUTION][TIME:41] Completed following process, removed from queue.
+[EXECUTION][TIME:67] Executed 23 in 24
+[EXECUTION][TIME:67] Completed following process, removed from queue.
+[EXECUTION][TIME:96] Executed 3 in 27
+[EXECUTION][TIME:96] Completed following process, removed from queue.
+[EXECUTION][TIME:130] Executed 1 in 32
+[EXECUTION][TIME:130] Completed following process, removed from queue.
+[EXECUTION][TIME:168] Executed 15 in 36
+[EXECUTION][TIME:168] Completed following process, removed from queue.
+[EXECUTION][TIME:210] Executed 24 in 40
+[EXECUTION][TIME:210] Completed following process, removed from queue.
+[EXECUTION][TIME:254] Executed 10 in 42
+[EXECUTION][TIME:254] Completed following process, removed from queue.
+[EXECUTION][TIME:301] Executed 22 in 45
+[EXECUTION][TIME:301] Completed following process, removed from queue.
+[EXECUTION][TIME:350] Executed 8 in 47
+[EXECUTION][TIME:350] Completed following process, removed from queue.
+[EXECUTION][TIME:400] Executed 7 in 48
+[EXECUTION][TIME:400] Completed following process, removed from queue.
+[EXECUTION][TIME:451] Executed 2 in 49
+[EXECUTION][TIME:451] Completed following process, removed from queue.
+[EXECUTION][TIME:503] Executed 6 in 50
+[EXECUTION][TIME:503] Completed following process, removed from queue.
+[EXECUTION][TIME:555] Executed 25 in 50
+[EXECUTION][TIME:555] Process has 2 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:555] Context switched to head of queue.
+[EXECUTION][TIME:559] Executed 25 in 2
+[EXECUTION][TIME:559] Completed following process, removed from queue.
+[EXECUTION][TIME:611] Executed 16 in 50
+[EXECUTION][TIME:611] Process has 4 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:611] Context switched to head of queue.
+[EXECUTION][TIME:617] Executed 16 in 4
+[EXECUTION][TIME:617] Completed following process, removed from queue.
+[EXECUTION][TIME:669] Executed 4 in 50
+[EXECUTION][TIME:669] Process has 6 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:669] Context switched to head of queue.
+[EXECUTION][TIME:677] Executed 4 in 6
+[EXECUTION][TIME:677] Completed following process, removed from queue.
+[EXECUTION][TIME:729] Executed 5 in 50
+[EXECUTION][TIME:729] Process has 10 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:729] Context switched to head of queue.
+[EXECUTION][TIME:741] Executed 5 in 10
+[EXECUTION][TIME:741] Completed following process, removed from queue.
+[EXECUTION][TIME:793] Executed 13 in 50
+[EXECUTION][TIME:793] Process has 14 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:793] Context switched to head of queue.
+[EXECUTION][TIME:809] Executed 13 in 14
+[EXECUTION][TIME:809] Completed following process, removed from queue.
+[EXECUTION][TIME:861] Executed 11 in 50
+[EXECUTION][TIME:861] Process has 25 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:861] Context switched to head of queue.
+[EXECUTION][TIME:888] Executed 11 in 25
+[EXECUTION][TIME:888] Completed following process, removed from queue.
+[EXECUTION][TIME:940] Executed 21 in 50
+[EXECUTION][TIME:940] Process has 30 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:940] Context switched to head of queue.
+[EXECUTION][TIME:972] Executed 21 in 30
+[EXECUTION][TIME:972] Completed following process, removed from queue.
+[EXECUTION][TIME:1024] Executed 20 in 50
+[EXECUTION][TIME:1024] Process has 50 remaining ticks to complete, shuffled to bottom of queue.
+[EXECUTION][TIME:1024] Context switched to head of queue.
+[EXECUTION][TIME:1076] Executed 20 in 50
+[EXECUTION][TIME:1076] Completed following process, removed from queue.

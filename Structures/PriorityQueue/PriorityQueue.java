@@ -21,7 +21,8 @@ public class PriorityQueue extends ProcessQueue {
 
     public ArrayList<PriorityQueueItem> priorityList = new ArrayList<PriorityQueueItem>();
 
-    public Consumer<PriorityQueueItem> compareAction;
+    public Comparator<PriorityQueueItem> compareableOrder = null;
+   // public Consumer<PriorityQueueItem> compareAction;
     
     public ArrayList<PriorityQueueItem> priorityListCopy;
 
@@ -50,7 +51,8 @@ public class PriorityQueue extends ProcessQueue {
         try {
             super.add(process);
             priorityList.add(new PriorityQueueItem( (SimProcess) process));
-            priorityList.sort( (a, b) -> b.process.priority - a.process.priority);
+            //priorityList.sort( (a, b) -> b.process.priority - a.process.priority);
+            if (compareableOrder != null) priorityList.sort(compareableOrder);
             return true;
         } catch (Exception e) {
             return false;
@@ -132,6 +134,10 @@ public class PriorityQueue extends ProcessQueue {
         return temp;
     }
 
+    public void setSortedOrder (Comparator<PriorityQueueItem> comparator) {
+        this.compareableOrder = comparator;
+    }
+
     public void SRTSort () {
         this.priorityList.sort((a, b) -> b.process.ticksToComplete - a.process.ticksToComplete);
     }
@@ -154,7 +160,7 @@ public class PriorityQueue extends ProcessQueue {
         System.out.println(test.size());
     }
 
-    
+
 }
 
 
